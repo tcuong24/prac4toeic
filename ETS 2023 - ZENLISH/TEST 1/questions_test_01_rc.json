@@ -1,0 +1,951 @@
+[
+    {
+        "question_number": 101,
+        "question_text": "When she held her last meeting, Ms. Toba ------- her sales staff to perform even better next quarter.",
+        "option_a": "encourage",
+        "option_b": "is encouraging",
+        "option_c": "encouraged",
+        "option_d": "was encouraged"
+    },
+    {
+        "question_number": 102,
+        "question_text": "All staff have been informed ------- the proposed partnership with ERI Finance.",
+        "option_a": "for",
+        "option_b": "about",
+        "option_c": "to",
+        "option_d": "at"
+    },
+    {
+        "question_number": 103,
+        "question_text": "On Friday, Mr. Nakamura will discuss ------- ideas for supporting busy waiters.",
+        "option_a": "his",
+        "option_b": "him",
+        "option_c": "himself",
+        "option_d": "he"
+    },
+    {
+        "question_number": 104,
+        "question_text": "The Forestry Commission was created to ------- the state's natural resources and wildlife.",
+        "option_a": "allow",
+        "option_b": "manage",
+        "option_c": "succeed",
+        "option_d": "finish"
+    },
+    {
+        "question_number": 105,
+        "question_text": "By following established guidelines, construction workers will be able to complete their tasks -------.",
+        "option_a": "safety",
+        "option_b": "safe",
+        "option_c": "safeness",
+        "option_d": "safely"
+    },
+    {
+        "question_number": 106,
+        "question_text": "With her numerous credentials, Dr. Kwan is highly ------- to teach medieval history at Maston University.",
+        "option_a": "arranged",
+        "option_b": "ready",
+        "option_c": "available",
+        "option_d": "qualified"
+    },
+    {
+        "question_number": 107,
+        "question_text": "------- at the annual technology conference is mandatory for all engineers at the Tremont Corporation.",
+        "option_a": "Attendance",
+        "option_b": "Attend",
+        "option_c": "Attends",
+        "option_d": "Attended"
+    },
+    {
+        "question_number": 108,
+        "question_text": "The café ------- features poets, folk singers, and drama groups on its stage.",
+        "option_a": "tightly",
+        "option_b": "occasionally",
+        "option_c": "vaguely",
+        "option_d": "realistically"
+    },
+    {
+        "question_number": 109,
+        "question_text": "Before the seminar began, attendees were assured ------- all scheduled presenters would appear.",
+        "option_a": "who",
+        "option_b": "around",
+        "option_c": "that",
+        "option_d": "therefore"
+    },
+    {
+        "question_number": 110,
+        "question_text": "Forever Pet has been a leader in bringing new products, ------- Fun Bone and Chew Right, to the market.",
+        "option_a": "however",
+        "option_b": "furthermore",
+        "option_c": "as if",
+        "option_d": "such as"
+    },
+    {
+        "question_number": 111,
+        "question_text": "Ms. Turner is in charge of ------- the organization of records in the human services department.",
+        "option_a": "improve",
+        "option_b": "improved",
+        "option_c": "improving",
+        "option_d": "improvement"
+    },
+    {
+        "question_number": 112,
+        "question_text": "Sheefon Bank clients always receive an e-mail or text ------- following any change to their account password.",
+        "option_a": "issue",
+        "option_b": "alert",
+        "option_c": "claim",
+        "option_d": "member"
+    },
+    {
+        "question_number": 113,
+        "question_text": "A drop in consumer demand has led to a ------- decrease in the production of large pickup trucks.",
+        "option_a": "remark",
+        "option_b": "remarked",
+        "option_c": "remarking",
+        "option_d": "remarkable"
+    },
+    {
+        "question_number": 114,
+        "question_text": "After coating the potatoes in flour and spices, chefs should place them ------- into the deep fryer.",
+        "option_a": "rarely",
+        "option_b": "honestly",
+        "option_c": "doubtfully",
+        "option_d": "directly"
+    },
+    {
+        "question_number": 115,
+        "question_text": "Several banks have released applications that allow ------- customers to pay bills easily by phone.",
+        "option_a": "their",
+        "option_b": "they",
+        "option_c": "them",
+        "option_d": "themselves"
+    },
+    {
+        "question_number": 116,
+        "question_text": "The personnel department will ------- only those applicants who have five or more years of experience for the position.",
+        "option_a": "participate",
+        "option_b": "consider",
+        "option_c": "grant",
+        "option_d": "make"
+    },
+    {
+        "question_number": 117,
+        "question_text": "Employees of Belfore Electronics Ltd. are ------- involved in community-assistance programs.",
+        "option_a": "active",
+        "option_b": "actively",
+        "option_c": "activate",
+        "option_d": "activity"
+    },
+    {
+        "question_number": 118,
+        "question_text": "The executives at Macalter Equipment decided they would not ------- the contract without major changes.",
+        "option_a": "renew",
+        "option_b": "consume",
+        "option_c": "identify",
+        "option_d": "resemble"
+    },
+    {
+        "question_number": 119,
+        "question_text": "Wet suits are made with a ------- layer of rubber that traps heat and keeps divers warm.",
+        "option_a": "protect",
+        "option_b": "protects",
+        "option_c": "protective",
+        "option_d": "protectively"
+    },
+    {
+        "question_number": 120,
+        "question_text": "Newcamp Services managers will meet to discuss the proposed ------- of three smaller branches into one large branch.",
+        "option_a": "security",
+        "option_b": "bracket",
+        "option_c": "connector",
+        "option_d": "merger"
+    },
+    {
+        "question_number": 121,
+        "question_text": "At Yarzen Technology, clients' records are ------- and can only be accessed by a small group of fund managers.",
+        "option_a": "confide",
+        "option_b": "confidential",
+        "option_c": "confidentially",
+        "option_d": "confidentiality"
+    },
+    {
+        "question_number": 122,
+        "question_text": "The featured panel at the NHJ Medical Conference will discuss recent ------- in online health-care services.",
+        "option_a": "memories",
+        "option_b": "varieties",
+        "option_c": "trends",
+        "option_d": "rehearsals"
+    },
+    {
+        "question_number": 123,
+        "question_text": "All of Millville's restaurants ------- several times a year by the city health department.",
+        "option_a": "inspect",
+        "option_b": "inspected",
+        "option_c": "are inspecting",
+        "option_d": "are inspected"
+    },
+    {
+        "question_number": 124,
+        "question_text": "Sweet Sunlight Bakery has steadily built a ------- base of customers with its delicious cookies and cakes.",
+        "option_a": "brief",
+        "option_b": "loyal",
+        "option_c": "strict",
+        "option_d": "careful"
+    },
+    {
+        "question_number": 125,
+        "question_text": "According to financial analysts, ------- in medical technology companies are expected to increase in value.",
+        "option_a": "invest",
+        "option_b": "investing",
+        "option_c": "invested",
+        "option_d": "investments"
+    },
+    {
+        "question_number": 126,
+        "question_text": "The city's harbor is ------- to container ships and fishing vessels of all sizes.",
+        "option_a": "accessible",
+        "option_b": "formal",
+        "option_c": "reasonable",
+        "option_d": "likely"
+    },
+    {
+        "question_number": 127,
+        "question_text": "Maya's Dancewear expanded its advertising markets, and sales have ------- increased.",
+        "option_a": "controlling",
+        "option_b": "consequently",
+        "option_c": "beneath",
+        "option_d": "even though"
+    },
+    {
+        "question_number": 128,
+        "question_text": "Dobson Ice Cream will not introduce any new flavors ------- the customer survey results are analyzed.",
+        "option_a": "around",
+        "option_b": "until",
+        "option_c": "despite",
+        "option_d": "past"
+    },
+    {
+        "question_number": 129,
+        "question_text": "The renovated company gym ------- with free weights and exercise machines.",
+        "option_a": "will equip",
+        "option_b": "to equip",
+        "option_c": "has been equipped",
+        "option_d": "is equipping"
+    },
+    {
+        "question_number": 130,
+        "question_text": "------- driving their cars, workers who travel to the town center should use the bus lines.",
+        "option_a": "Because of",
+        "option_b": "Instead of",
+        "option_c": "Whenever",
+        "option_d": "Although"
+    },
+    {
+        "question_number": 131,
+        "question_text": "Choose the best word for the blank 131.",
+        "option_a": "locate",
+        "option_b": "located",
+        "option_c": "locates",
+        "option_d": "location"
+    },
+    {
+        "question_number": 132,
+        "question_text": "Choose the best sentence for the blank 132.",
+        "option_a": "The results will be announced later this month.",
+        "option_b": "We are proud to serve our community with excellence.",
+        "option_c": "Pat and Kenny's shop excelled in all four categories.",
+        "option_d": "Please call in advance to schedule an appointment."
+    },
+    {
+        "question_number": 133,
+        "question_text": "Choose the best word for the blank 133.",
+        "option_a": "I",
+        "option_b": "We",
+        "option_c": "They",
+        "option_d": "He"
+    },
+    {
+        "question_number": 134,
+        "question_text": "Choose the best word for the blank 134.",
+        "option_a": "While",
+        "option_b": "Despite",
+        "option_c": "Even",
+        "option_d": "Yet"
+    },
+    {
+        "question_number": 135,
+        "question_text": "You have chosen a safe and ------- way to obtain fuel...",
+        "option_a": "economy",
+        "option_b": "economics",
+        "option_c": "economize",
+        "option_d": "economical"
+    },
+    {
+        "question_number": 136,
+        "question_text": "Simply follow the directions -------.",
+        "option_a": "below",
+        "option_b": "finally",
+        "option_c": "sometimes",
+        "option_d": "hourly"
+    },
+    {
+        "question_number": 137,
+        "question_text": "Then, pay the cashier inside the store for a fresh tank of propane. -------.",
+        "option_a": "Come again very soon.",
+        "option_b": "It is warmer in the store.",
+        "option_c": "Do not take it inside.",
+        "option_d": "The tank is prefilled."
+    },
+    {
+        "question_number": 138,
+        "question_text": "Be sure to visit us again when you need a -------.",
+        "option_a": "model",
+        "option_b": "version",
+        "option_c": "heater",
+        "option_d": "replacement"
+    },
+    {
+        "question_number": 139,
+        "question_text": "We want your ------- with Technicarn Enterprises to be easy and enjoyable.",
+        "option_a": "experience",
+        "option_b": "experienced",
+        "option_c": "experiencing",
+        "option_d": "experiential"
+    },
+    {
+        "question_number": 140,
+        "question_text": "visiting ------- the Internet Issues or TV and Streaming Issues pages.",
+        "option_a": "either",
+        "option_b": "both",
+        "option_c": "rather",
+        "option_d": "each"
+    },
+    {
+        "question_number": 141,
+        "question_text": "-------, you can find detailed information concerning account management, access, billing, and payment.",
+        "option_a": "Therefore",
+        "option_b": "Regardless",
+        "option_c": "For example",
+        "option_d": "Moreover"
+    },
+    {
+        "question_number": 142,
+        "question_text": "Please explore the new Web site at your earliest convenience: -------.",
+        "option_a": "We also need to inform you that your payment is five days past due.",
+        "option_b": "We recommend that you purchase all related accessories in our retail store.",
+        "option_c": "If you get an error message, disconnect from the Internet and try again.",
+        "option_d": "If you cannot find what you need online, simply call our support number."
+    },
+    {
+        "question_number": 143,
+        "question_text": "Beginning May 1, the sale and use of paper tickets and transit passes will be ------- on all Garner City Transport bus and subway lines.",
+        "option_a": "enlarged",
+        "option_b": "discontinued",
+        "option_c": "accessible",
+        "option_d": "refreshed"
+    },
+    {
+        "question_number": 144,
+        "question_text": "This change applies to single-ride tickets ------- to weekly and monthly passes.",
+        "option_a": "sharing",
+        "option_b": "but",
+        "option_c": "except",
+        "option_d": "as well as"
+    },
+    {
+        "question_number": 145,
+        "question_text": "With the app, they can add money to their accounts, purchase tickets, plan -------, and track arrival and departure times.",
+        "option_a": "routes",
+        "option_b": "responses",
+        "option_c": "software",
+        "option_d": "careers"
+    },
+    {
+        "question_number": 146,
+        "question_text": "Alternatively, passengers can purchase a rechargeable transit card at any station. -------. Value can be added to the card via the Garner City Transport Web site at www.garnercitytransport.org.",
+        "option_a": "People often use credit cards to purchase meals during the flight.",
+        "option_b": "Many people like public transportation because it is inexpensive.",
+        "option_c": "The durable cards are made from recycled materials.",
+        "option_d": "There was a small price increase last month."
+    },
+    {
+        "question_number": 147,
+        "question_text": "What is indicated about Harbis Stationery Store?",
+        "option_a": "It provides materials for students.",
+        "option_b": "It has stores in multiple locations.",
+        "option_c": "It is celebrating an anniversary.",
+        "option_d": "It provides free shipping for online orders."
+    },
+    {
+        "question_number": 148,
+        "question_text": "What item is discounted by the greatest percentage?",
+        "option_a": "Box of ten cards",
+        "option_b": "Box of five invitations",
+        "option_c": "Wireless mouse",
+        "option_d": "Desk lamp"
+    },
+    {
+        "question_number": 149,
+        "question_text": "What is the purpose of the e-mail?",
+        "option_a": "To inquire about leasing a vehicle",
+        "option_b": "To inform a customer of required car maintenance",
+        "option_c": "To announce the release of a new car",
+        "option_d": "To register a used car for an extended warranty"
+    },
+    {
+        "question_number": 150,
+        "question_text": "What is indicated about Chen Construction?",
+        "option_a": "It performs the servicing of its company vehicles.",
+        "option_b": "It has a new project beginning March 1.",
+        "option_c": "It provides leased cars to some employees.",
+        "option_d": "It will soon begin a construction project for Toshi Auto Group."
+    },
+    {
+        "question_number": 151,
+        "question_text": "What is the main purpose of the article?",
+        "option_a": "To promote a new line of cookware",
+        "option_b": "To advertise an orchestra concert",
+        "option_c": "To announce a new series of books",
+        "option_d": "To provide a calendar of local events"
+    },
+    {
+        "question_number": 152,
+        "question_text": "What is planned for December?",
+        "option_a": "An awards ceremony",
+        "option_b": "The publication of a life story",
+        "option_c": "The release of a new album",
+        "option_d": "The launch of a celebrity's restaurant"
+    },
+    {
+        "question_number": 153,
+        "question_text": "What does Frederick Bissett emphasize about Tillford Exalt?",
+        "option_a": "Its record-breaking sales",
+        "option_b": "Its roots in Manchester",
+        "option_c": "Its focus on fiction and poetry",
+        "option_d": "Its broad range of authors"
+    },
+    {
+        "question_number": 154,
+        "question_text": "What problem does Mr. Skagen mention?",
+        "option_a": "Some new employees are absent.",
+        "option_b": "Some boxes are incorrectly labeled.",
+        "option_c": "A package delivery is delayed.",
+        "option_d": "An access door is malfunctioning."
+    },
+    {
+        "question_number": 155,
+        "question_text": "At 9:02 A.M., what does Mr. Skagen most likely mean when he writes, \"Yes, that works\"?",
+        "option_a": "An electrician has arrived at a work site.",
+        "option_b": "Some equipment is operating smoothly.",
+        "option_c": "Trainees can help with some shipments.",
+        "option_d": "Ms. Sadauskas is well suited for her job."
+    },
+    {
+        "question_number": 156,
+        "question_text": "Why was the form submitted?",
+        "option_a": "An image is not displaying clearly.",
+        "option_b": "A projector needs to be set up.",
+        "option_c": "Audio is not functioning properly.",
+        "option_d": "A microphone needs to be repaired."
+    },
+    {
+        "question_number": 157,
+        "question_text": "What is Ms. Deckow planning to do next week?",
+        "option_a": "Visit a client site",
+        "option_b": "Deliver a product",
+        "option_c": "Create an online video",
+        "option_d": "Give a presentation"
+    },
+    {
+        "question_number": 158,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 158,
+        "question_text": "At what time will the executive board meeting begin?",
+        "option_a": "2:00 P.M.",
+        "option_b": "2:15 P.M.",
+        "option_c": "2:30 P.M.",
+        "option_d": "3:00 P.M."
+    },
+    {
+        "question_number": 159,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 159,
+        "question_text": "In what area does Mr. Iverman most likely work?",
+        "option_a": "Marketing",
+        "option_b": "Finance",
+        "option_c": "Advertising",
+        "option_d": "Executive management"
+    },
+    {
+        "question_number": 160,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 160,
+        "question_text": "Why does Ms. Glatt want a colleague to attend a meeting?",
+        "option_a": "To summarize a previous meeting",
+        "option_b": "To explain a promotional campaign",
+        "option_c": "To provide information about a budget",
+        "option_d": "To review recently approved documents"
+    },
+    {
+        "question_number": 161,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 161,
+        "question_text": "At 11:43 A.M., what does Ms. Glatt most likely mean when she writes, \"Sounds great\"?",
+        "option_a": "She accepts Mr. Seidal's offer.",
+        "option_b": "She agrees that Mr. Iverman should attend the meeting at 3:00 P.M.",
+        "option_c": "She is pleased with the proposed budget.",
+        "option_d": "She is happy that a project has been completed."
+    },
+    {
+        "question_number": 162,
+        "question_text": "What does Ms. McFarland mention about Mr. Wilkins?",
+        "option_a": "He informed her of a job opening.",
+        "option_b": "He will require a professional reference.",
+        "option_c": "He would make a good business partner.",
+        "option_d": "He is considering resigning from his position."
+    },
+    {
+        "question_number": 163,
+        "question_text": "The word \"convey\" in paragraph 1, line 5, is closest in meaning to",
+        "option_a": "transport",
+        "option_b": "communicate",
+        "option_c": "recommend",
+        "option_d": "adapt"
+    },
+    {
+        "question_number": 164,
+        "question_text": "Why does Ms. McFarland want to leave her current position?",
+        "option_a": "She wants a higher salary for her efforts.",
+        "option_b": "She wants to work with a more experienced team.",
+        "option_c": "She wants more opportunities for advancement.",
+        "option_d": "She wants a role that inspires her more."
+    },
+    {
+        "question_number": 165,
+        "question_text": "Why does Ms. McFarland mention her travels?",
+        "option_a": "To request a placement in a particular country",
+        "option_b": "To discuss how she came to acquire strategic industry contacts",
+        "option_c": "To explain how she became aware of certain world issues",
+        "option_d": "To emphasize her experience with people of different backgrounds"
+    },
+    {
+        "question_number": 166,
+        "question_text": "What does Trexdale Supply make?",
+        "option_a": "Medical supplies",
+        "option_b": "Farming equipment",
+        "option_c": "Cabinets and furniture",
+        "option_d": "Glass laboratory equipment"
+    },
+    {
+        "question_number": 167,
+        "question_text": "What did Trexdale Supply do in a recent project?",
+        "option_a": "It reorganized a client's laboratory.",
+        "option_b": "It converted its vehicles to use biofuels.",
+        "option_c": "It expanded staffing at its production facility.",
+        "option_d": "It helped a client organize a trade show."
+    },
+    {
+        "question_number": 168,
+        "question_text": "What method of communicating with Trexdale Supply is mentioned?",
+        "option_a": "By e-mail",
+        "option_b": "By phone",
+        "option_c": "By instant message",
+        "option_d": "By an online form"
+    },
+    {
+        "question_number": 169,
+        "question_text": "What work experience would best qualify a candidate for the position?",
+        "option_a": "Cook",
+        "option_b": "Cashier",
+        "option_c": "Interior designer",
+        "option_d": "Event planner"
+    },
+    {
+        "question_number": 170,
+        "question_text": "According to the advertisement, what should people interested in applying do next?",
+        "option_a": "Respond to a survey",
+        "option_b": "Arrange for an interview",
+        "option_c": "Submit a recording",
+        "option_d": "Provide references"
+    },
+    {
+        "question_number": 171,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Many of the world's best-known brands rely on our product demonstrators to generate positive impressions of their products.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 172,
+        "question_text": "What is indicated about the Pro Phone 4?",
+        "option_a": "It has an 8-inch screen.",
+        "option_b": "It will be available in June.",
+        "option_c": "It is cheaper than the Pro Phone 3.",
+        "option_d": "It comes with a wireless charger."
+    },
+    {
+        "question_number": 172,
+        "question_text": "What is the purpose of the article?",
+        "option_a": "To promote a technology show",
+        "option_b": "To introduce a product",
+        "option_c": "To interview smartphone users",
+        "option_d": "To announce a recall of a device"
+    },
+    {
+        "question_number": 173,
+        "question_text": "What is mentioned as a feature of the Pro Phone 4?",
+        "option_a": "A larger screen",
+        "option_b": "A built-in charger",
+        "option_c": "A lower price",
+        "option_d": "An included stylus pen"
+    },
+    {
+        "question_number": 173,
+        "question_text": "How much do the Gorman Pro Phone 4 wireless headphones cost?",
+        "option_a": "£39",
+        "option_b": "£59",
+        "option_c": "£79",
+        "option_d": "£100"
+    },
+    {
+        "question_number": 174,
+        "question_text": "According to Mr. Hill, why was the camera improved?",
+        "option_a": "To reduce the cost of production",
+        "option_b": "To compete with other brands",
+        "option_c": "To respond to customer feedback",
+        "option_d": "To make the phone sleeker"
+    },
+    {
+        "question_number": 174,
+        "question_text": "What does the Pro Phone 4 have in common with prior models?",
+        "option_a": "The screen size",
+        "option_b": "The camera resolution",
+        "option_c": "The price",
+        "option_d": "The charger"
+    },
+    {
+        "question_number": 175,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Instead, it comes with a cable.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 175,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\n\"These upgrades do come at a cost.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 176,
+        "question_text": "What is the work order mainly about?",
+        "option_a": "A malfunctioning telephone",
+        "option_b": "A password issue",
+        "option_c": "A confidential document",
+        "option_d": "A computer workstation",
+        "option_e": ""
+    },
+    {
+        "question_number": 176,
+        "question_text": "What does Ms. Xi's request indicate about the company?",
+        "option_a": "It provides mobile phones to some employees.",
+        "option_b": "Its employees value confidentiality.",
+        "option_c": "It has recently changed its phone system.",
+        "option_d": "It offers technology training to employees."
+    },
+    {
+        "question_number": 177,
+        "question_text": "Why does Ms. Xi not want a high degree of security?",
+        "option_a": "She forgets her password frequently.",
+        "option_b": "She works alone in her office.",
+        "option_c": "Her work is not confidential.",
+        "option_d": "Her phone is rarely used.",
+        "option_e": ""
+    },
+    {
+        "question_number": 177,
+        "question_text": "In the e-mail, the word \"regular\" in paragraph 1, line 6, is closest in meaning to",
+        "option_a": "periodic",
+        "option_b": "orderly",
+        "option_c": "customary",
+        "option_d": "legitimate"
+    },
+    {
+        "question_number": 178,
+        "question_text": "In the e-mail, the word \"policy\" in paragraph 1, line 4, is closest in meaning to",
+        "option_a": "guideline",
+        "option_b": "strategy",
+        "option_c": "contract",
+        "option_d": "wisdom",
+        "option_e": ""
+    },
+    {
+        "question_number": 178,
+        "question_text": "Where did Mr. Arnold learn about the details of Ms. Xi's request?",
+        "option_a": "In a weekly managers' meeting",
+        "option_b": "In a work order",
+        "option_c": "In a phone call",
+        "option_d": "In a personal voice mail"
+    },
+    {
+        "question_number": 179,
+        "question_text": "According to Mr. Arnold, what is a disadvantage of lowering security?",
+        "option_a": "Messages might be accidentally deleted.",
+        "option_b": "The phone system might stop working.",
+        "option_c": "IT staff will not be able to override passwords.",
+        "option_d": "Unauthorized persons could change the greeting.",
+        "option_e": ""
+    },
+    {
+        "question_number": 179,
+        "question_text": "How does Mr. Arnold try to satisfy Ms. Xi's request?",
+        "option_a": "By agreeing to everything Ms. Xi asked for",
+        "option_b": "By resetting the password on Ms. Xi's phone",
+        "option_c": "By referring the matter to another technician",
+        "option_d": "By proposing to fulfill only part of Ms. Xi's request"
+    },
+    {
+        "question_number": 180,
+        "question_text": "What does Mr. Arnold ask Ms. Xi to do?",
+        "option_a": "Call the IT department",
+        "option_b": "Read a company manual",
+        "option_c": "Confirm her decision",
+        "option_d": "Change her password",
+        "option_e": ""
+    },
+    {
+        "question_number": 180,
+        "question_text": "What does Mr. Arnold ask Ms. Xi to do?",
+        "option_a": "Make the needed changes to her voice-mail system",
+        "option_b": "Attend training about the new voice-mail system",
+        "option_c": "Confirm that she wants him to change her voice-mail system",
+        "option_d": "Provide a clear description of the problem with her voice-mail system"
+    },
+    {
+        "question_number": 181,
+        "question_text": "In the e-mail, what is suggested about Mr. Merson?",
+        "option_a": "He coordinates a game development team.",
+        "option_b": "He is convinced that Titan Adventure is overpriced.",
+        "option_c": "He is a new employee at Rimerko Games.",
+        "option_d": "He will leave on a business trip on October 10."
+    },
+    {
+        "question_number": 182,
+        "question_text": "In the review, what is indicated about Neptune's Voyage?",
+        "option_a": "It is a major competitor of Titan Adventure.",
+        "option_b": "It features an open-world format.",
+        "option_c": "It is the first video game in a series.",
+        "option_d": "It is Rimerko's most challenging game."
+    },
+    {
+        "question_number": 183,
+        "question_text": "What can be concluded about Ms. Hanshu?",
+        "option_a": "She wrote the script for Neptune's Voyage.",
+        "option_b": "She successfully addressed Mr. Merson's concern.",
+        "option_c": "She won an award for game design.",
+        "option_d": "She is a project manager."
+    },
+    {
+        "question_number": 184,
+        "question_text": "What does Mr. Weber find exciting about Neptune's Voyage?",
+        "option_a": "It has players act in the role of Neptune.",
+        "option_b": "It uses lighting to show players where to navigate.",
+        "option_c": "It introduces a completely new set of characters.",
+        "option_d": "It lets players explore new features without guidance."
+    },
+    {
+        "question_number": 185,
+        "question_text": "When will Neptune's Voyage be available?",
+        "option_a": "On September 4",
+        "option_b": "On October 10",
+        "option_c": "On April 1",
+        "option_d": "On May 5"
+    },
+    {
+        "question_number": 186,
+        "question_text": "According to the schedule, who is Ms. Jones?",
+        "option_a": "The advertising manager at a radio station",
+        "option_b": "The host of a community news program",
+        "option_c": "The music director at Wonder Ridge Radio",
+        "option_d": "The host of a sports radio program"
+    },
+    {
+        "question_number": 187,
+        "question_text": "What is the purpose of the e-mail?",
+        "option_a": "To express praise for the radio station",
+        "option_b": "To ask about job opportunities",
+        "option_c": "To request more sports talk show programming",
+        "option_d": "To inquire about the name of a song"
+    },
+    {
+        "question_number": 188,
+        "question_text": "When did Mr. Fabre most likely first listen to Wonder Ridge Radio?",
+        "option_a": "Between 6 A.M. and noon",
+        "option_b": "Between noon and 4 P.M.",
+        "option_c": "Between 4 P.M. and 7 P.M.",
+        "option_d": "Between 7 P.M. and 10 P.M."
+    },
+    {
+        "question_number": 189,
+        "question_text": "What does the job advertisement suggest applicants must have?",
+        "option_a": "A willingness to travel",
+        "option_b": "Familiarity with computers",
+        "option_c": "A degree in communications",
+        "option_d": "Extensive experience in the radio industry"
+    },
+    {
+        "question_number": 190,
+        "question_text": "What radio program will probably receive the most support from the programming assistant?",
+        "option_a": "Coffee Break",
+        "option_b": "Afternoon Jazz",
+        "option_c": "Folk Frenzy",
+        "option_d": "Josie's Joint"
+    },
+    {
+        "question_number": 191,
+        "question_text": "What is indicated about the City of Abilene's Records Center Web portal?",
+        "option_a": "It can be used to request public information.",
+        "option_b": "It is currently undergoing maintenance.",
+        "option_c": "It provides a directory of department staff.",
+        "option_d": "It requires users to pay a yearly subscription fee."
+    },
+    {
+        "question_number": 191,
+        "question_text": "What do the instructions indicate about records requests?",
+        "option_a": "They can be made only on certain days.",
+        "option_b": "They can be made only online.",
+        "option_c": "They can be filed only by authorized personnel.",
+        "option_d": "They can be filed only after a fee is paid."
+    },
+    {
+        "question_number": 192,
+        "question_text": "According to the instructions, what must Mr. Brandenberg do if he wants to pick up his documents?",
+        "option_a": "Provide a reference number",
+        "option_b": "Schedule an appointment",
+        "option_c": "Sign a confirmation e-mail",
+        "option_d": "Fill out a feedback form"
+    },
+    {
+        "question_number": 192,
+        "question_text": "According to the e-mail, how does Mr. Brandenberg plan to use some public information?",
+        "option_a": "To add information to a Web portal",
+        "option_b": "To help his company advise the city",
+        "option_c": "To identify an accounting error",
+        "option_d": "To learn how an agency is structured"
+    },
+    {
+        "question_number": 193,
+        "question_text": "Why did Mr. Brandenberg contact Ms. Park?",
+        "option_a": "To report an error in a document",
+        "option_b": "To inquire about a charge",
+        "option_c": "To change the date of a meeting",
+        "option_d": "To request an update on a project"
+    },
+    {
+        "question_number": 193,
+        "question_text": "What does the sign indicate visitors must do before entering a building?",
+        "option_a": "Go through a security screening",
+        "option_b": "Get a parking permit",
+        "option_c": "Present some identification",
+        "option_d": "Sign a logbook"
+    },
+    {
+        "question_number": 194,
+        "question_text": "What is Mr. Brandenberg's profession?",
+        "option_a": "Wastewater plant operator",
+        "option_b": "Civil engineer",
+        "option_c": "City administrator",
+        "option_d": "Environmental consultant"
+    },
+    {
+        "question_number": 194,
+        "question_text": "What was Mr. Brandenberg expecting to receive?",
+        "option_a": "An itemized statement of fees",
+        "option_b": "A letter from his company",
+        "option_c": "A phone call from a city official",
+        "option_d": "A password for the Web portal"
+    },
+    {
+        "question_number": 195,
+        "question_text": "What does Mr. Brandenberg imply when he mentions that he has requested records in the past?",
+        "option_a": "He believes the current fee is unreasonable.",
+        "option_b": "He is familiar with the online portal.",
+        "option_c": "He often picks up documents in person.",
+        "option_d": "He has previously worked with Ms. Park."
+    },
+    {
+        "question_number": 195,
+        "question_text": "What room will Mr. Brandenberg most likely visit?",
+        "option_a": "Room 100",
+        "option_b": "Room 101",
+        "option_c": "Room 102",
+        "option_d": "Room 103"
+    },
+    {
+        "question_number": 196,
+        "question_text": "What does the review mention about Mr. Eklund?",
+        "option_a": "He enjoys his work as a director.",
+        "option_b": "He has been a mentor to many young people.",
+        "option_c": "He is a well-known actor.",
+        "option_d": "He has written many books."
+    },
+    {
+        "question_number": 197,
+        "question_text": "Where most likely will Ms. Joshi meet Mr. Eklund?",
+        "option_a": "In Sweden",
+        "option_b": "In France",
+        "option_c": "In Italy",
+        "option_d": "In the United Kingdom"
+    },
+    {
+        "question_number": 198,
+        "question_text": "According to the first e-mail, what is one reason Ms. Joshi will travel in April?",
+        "option_a": "To go on a vacation",
+        "option_b": "To interview for a new job",
+        "option_c": "To attend an international film festival",
+        "option_d": "To speak at a conference"
+    },
+    {
+        "question_number": 199,
+        "question_text": "What is the purpose of the second e-mail?",
+        "option_a": "To reserve a hotel room",
+        "option_b": "To confirm meeting arrangements",
+        "option_c": "To discuss an idea for a movie",
+        "option_d": "To ask for transportation"
+    },
+    {
+        "question_number": 200,
+        "question_text": "What can be concluded about Mr. Eklund?",
+        "option_a": "He hopes to write for a British news site.",
+        "option_b": "He just hired a new assistant.",
+        "option_c": "He was pleased with Ms. Joshi's review of his book.",
+        "option_d": "He frequently cooks special meals."
+    }
+]

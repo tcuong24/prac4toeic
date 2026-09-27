@@ -1,0 +1,922 @@
+[
+    {
+        "question_number": 101,
+        "question_text": "Mobile phone upgrades will be discounted with the ------- of a one-year service plan.",
+        "option_a": "purchase",
+        "option_b": "purchaser",
+        "option_c": "purchased",
+        "option_d": "purchasers"
+    },
+    {
+        "question_number": 102,
+        "question_text": "Meeting coordinators are ------- to make sure the projection equipment is turned off after each use.",
+        "option_a": "proposed",
+        "option_b": "supported",
+        "option_c": "reminded",
+        "option_d": "suggested"
+    },
+    {
+        "question_number": 103,
+        "question_text": "For questions ------- to the use of personal time off, please contact Ms. Matz in the human resources department.",
+        "option_a": "relate",
+        "option_b": "related",
+        "option_c": "relation",
+        "option_d": "relates"
+    },
+    {
+        "question_number": 104,
+        "question_text": "Ammeto software ------- team members to view project-related schedules, resources, and costs.",
+        "option_a": "allowance",
+        "option_b": "allows",
+        "option_c": "allowing",
+        "option_d": "allowable"
+    },
+    {
+        "question_number": 105,
+        "question_text": "Customer service representatives are ------- to answer your inquiries 24 hours a day.",
+        "option_a": "urgent",
+        "option_b": "invested",
+        "option_c": "available",
+        "option_d": "secure"
+    },
+    {
+        "question_number": 106,
+        "question_text": "The audience laughed so ------- during the play that some of the actors' lines were drowned out.",
+        "option_a": "loudest",
+        "option_b": "louder",
+        "option_c": "loudness",
+        "option_d": "loudly"
+    },
+    {
+        "question_number": 107,
+        "question_text": "Customers may request parking validation ------- before or after they dine with us.",
+        "option_a": "either",
+        "option_b": "since",
+        "option_c": "if",
+        "option_d": "as"
+    },
+    {
+        "question_number": 108,
+        "question_text": "Prestige Apartment Homes offers ------- apartments for an additional cost.",
+        "option_a": "furnishing",
+        "option_b": "furnished",
+        "option_c": "furnishes",
+        "option_d": "furnish"
+    },
+    {
+        "question_number": 109,
+        "question_text": "Mr. Park must wait for ------- from human resources before posting the job announcement.",
+        "option_a": "admission",
+        "option_b": "approval",
+        "option_c": "favor",
+        "option_d": "opinion"
+    },
+    {
+        "question_number": 110,
+        "question_text": "Please direct inquiries to the appropriate person listed in our ------- staff directory.",
+        "option_a": "update",
+        "option_b": "updated",
+        "option_c": "updates",
+        "option_d": "updating"
+    },
+    {
+        "question_number": 111,
+        "question_text": "The Blakewood store had been waiting for the shipment of gift boxes ------- finally arrived on Friday morning.",
+        "option_a": "that",
+        "option_b": "though",
+        "option_c": "over",
+        "option_d": "still"
+    },
+    {
+        "question_number": 112,
+        "question_text": "Wheller's software tools make market research quick and easy ------- any entrepreneur.",
+        "option_a": "onto",
+        "option_b": "except",
+        "option_c": "upon",
+        "option_d": "for"
+    },
+    {
+        "question_number": 113,
+        "question_text": "Da-Xia Ting is seeking a patent for the heat-exchange valve she -------.",
+        "option_a": "inventor",
+        "option_b": "inventing",
+        "option_c": "invented",
+        "option_d": "invention"
+    },
+    {
+        "question_number": 114,
+        "question_text": "The library has newspapers dating from the 1700s and is ------- a prime destination for historians.",
+        "option_a": "toward",
+        "option_b": "where",
+        "option_c": "thus",
+        "option_d": "yet"
+    },
+    {
+        "question_number": 115,
+        "question_text": "A small water leak often leads to major problems if not fixed -------.",
+        "option_a": "immediately",
+        "option_b": "especially",
+        "option_c": "previously",
+        "option_d": "relatively"
+    },
+    {
+        "question_number": 116,
+        "question_text": "------- construction, more than 400 meters of public water pipes will be replaced.",
+        "option_a": "Until",
+        "option_b": "Within",
+        "option_c": "During",
+        "option_d": "Among"
+    },
+    {
+        "question_number": 117,
+        "question_text": "The electrical work in the lobby today is not expected to interfere with normal business -------.",
+        "option_a": "operator",
+        "option_b": "operates",
+        "option_c": "operations",
+        "option_d": "operational"
+    },
+    {
+        "question_number": 118,
+        "question_text": "Because the accounting team worked so -------, the report was completed ahead of schedule.",
+        "option_a": "securely",
+        "option_b": "efficiently",
+        "option_c": "respectively",
+        "option_d": "usually"
+    },
+    {
+        "question_number": 119,
+        "question_text": "The proposal submitted by Ferrisa Associates did not ------- an itemized budget.",
+        "option_a": "contain",
+        "option_b": "fold",
+        "option_c": "count",
+        "option_d": "refuse"
+    },
+    {
+        "question_number": 120,
+        "question_text": "The employee handbook ------- states that uniforms must be worn by all customer service providers.",
+        "option_a": "clear",
+        "option_b": "clears",
+        "option_c": "clearer",
+        "option_d": "clearly"
+    },
+    {
+        "question_number": 121,
+        "question_text": "Andara Ebele taught ------- to paint by copying the styles of famous portrait and landscape artists.",
+        "option_a": "hers",
+        "option_b": "her own",
+        "option_c": "she",
+        "option_d": "herself"
+    },
+    {
+        "question_number": 122,
+        "question_text": "Mr. Zasio will need to reschedule his appointment today as his train was unexpectedly --------.",
+        "option_a": "delay",
+        "option_b": "delays",
+        "option_c": "delayed",
+        "option_d": "delaying"
+    },
+    {
+        "question_number": 123,
+        "question_text": "The bottling machine should be turned off ------- it is being cleaned.",
+        "option_a": "while",
+        "option_b": "so",
+        "option_c": "whereas",
+        "option_d": "also"
+    },
+    {
+        "question_number": 124,
+        "question_text": "Ms. Ogawa is adamantly ------- to the redevelopment project in its current form.",
+        "option_a": "objectionable",
+        "option_b": "negative",
+        "option_c": "close",
+        "option_d": "opposed"
+    },
+    {
+        "question_number": 125,
+        "question_text": "------- the statistical report is drafted, Ms. Arista will edit it.",
+        "option_a": "How",
+        "option_b": "Then",
+        "option_c": "When",
+        "option_d": "Where"
+    },
+    {
+        "question_number": 126,
+        "question_text": "Having strong partnerships throughout Southeast Asia has been ------- to Srisati Company's success.",
+        "option_a": "critical",
+        "option_b": "criticize",
+        "option_c": "critic",
+        "option_d": "critically"
+    },
+    {
+        "question_number": 127,
+        "question_text": "Sarah Davidson ------- Chikara Architects' creative vision more enthusiastically than any other associate did.",
+        "option_a": "caught up",
+        "option_b": "gave away",
+        "option_c": "prepared",
+        "option_d": "embraced"
+    },
+    {
+        "question_number": 128,
+        "question_text": "------- with more than a year of employment can apply for tuition assistance if they wish to pursue an academic degree.",
+        "option_a": "Those",
+        "option_b": "These",
+        "option_c": "Whoever",
+        "option_d": "Who"
+    },
+    {
+        "question_number": 129,
+        "question_text": "Factilis Capital is mainly concerned about the enormous ------- of the Ito Wind Farm project.",
+        "option_a": "difference",
+        "option_b": "confusion",
+        "option_c": "scale",
+        "option_d": "spiral"
+    },
+    {
+        "question_number": 130,
+        "question_text": "All Loreen wristwatches come with ------- black, white, and blue bands.",
+        "option_a": "variable",
+        "option_b": "probable",
+        "option_c": "companionable",
+        "option_d": "interchangeable"
+    },
+    {
+        "question_number": 131,
+        "question_text": "Lee Valley Farmers Market is ------- exciting changes.",
+        "option_a": "resulting",
+        "option_b": "attaching",
+        "option_c": "competing",
+        "option_d": "undergoing"
+    },
+    {
+        "question_number": 132,
+        "question_text": "Jerry Carver, who has been the market's ------- for the last three years, stepped down last week.",
+        "option_a": "shipper",
+        "option_b": "grower",
+        "option_c": "driver",
+        "option_d": "manager"
+    },
+    {
+        "question_number": 133,
+        "question_text": "The main market area is expanding from ten to fifteen booths to include more than just produce. -------",
+        "option_a": "However, there is a pharmacy next door.",
+        "option_b": "It will be closed over the winter months.",
+        "option_c": "Meat, cheese, and honey are among the new products.",
+        "option_d": "Currently, parking is available in the garage across the street."
+    },
+    {
+        "question_number": 134,
+        "question_text": "We hope that by offering a ------- range of products, we can encourage more people to shop locally.",
+        "option_a": "widen",
+        "option_b": "wider",
+        "option_c": "widest",
+        "option_d": "widely"
+    },
+    {
+        "question_number": 135,
+        "question_text": "Don't let tires that are cracked, bulging, or worn slow you down. Cruise into the new year on fresh Marchetti premium tires! Now at all Greenback Discount Warehouse Club locations, members can save $75 on a ------- of four this month.",
+        "option_a": "file",
+        "option_b": "packet",
+        "option_c": "set",
+        "option_d": "round"
+    },
+    {
+        "question_number": 136,
+        "question_text": "-------. Sign up for an annual membership before December 31 and take an extra $20 off tire installation.",
+        "option_a": "Are you tired of sitting in traffic?",
+        "option_b": "Would you like to become a member?",
+        "option_c": "Do you need a trusted mechanic?",
+        "option_d": "Are you interested in a new car?"
+    },
+    {
+        "question_number": 137,
+        "question_text": "Some exclusions -------, and sizes may not be available for all vehicle makes and models.",
+        "option_a": "apply",
+        "option_b": "to apply",
+        "option_c": "applying",
+        "option_d": "had applied"
+    },
+    {
+        "question_number": 138,
+        "question_text": "For ------- details, go to your nearest Greenback Discount Warehouse Club or visit the Web site at www.gdwc.com/tires.",
+        "option_a": "modern",
+        "option_b": "optional",
+        "option_c": "inflated",
+        "option_d": "further"
+    },
+    {
+        "question_number": 139,
+        "question_text": "It was a pleasure ------ with you today.",
+        "option_a": "speaking",
+        "option_b": "presenting",
+        "option_c": "performing",
+        "option_d": "celebrating"
+    },
+    {
+        "question_number": 140,
+        "question_text": "This ------ one slice of pizza, one can of lemonade, and one small bag of crisps for £8 per person.",
+        "option_a": "includes",
+        "option_b": "including",
+        "option_c": "has included",
+        "option_d": "would have included"
+    },
+    {
+        "question_number": 141,
+        "question_text": "------, you may bring your own cake or another dessert.",
+        "option_a": "Similarly",
+        "option_b": "In short",
+        "option_c": "Alternatively",
+        "option_d": "For example"
+    },
+    {
+        "question_number": 142,
+        "question_text": "------. Food orders can be changed up to 48 hours prior to your event.",
+        "option_a": "Our vegetable tray is a popular item.",
+        "option_b": "Check-in for your party begins at noon.",
+        "option_c": "Each guest will need to sign a waiver prior to the event.",
+        "option_d": "Please reply to this message if you would like to upgrade your menu."
+    },
+    {
+        "question_number": 143,
+        "question_text": "Thank you for initiating the setup of your Paxton Mobile Banking account. ------- 143.",
+        "option_a": "To open a new line of credit, call your local branch office.",
+        "option_b": "To complete the process, follow the instructions we sent to your e-mail.",
+        "option_c": "Please respond to this survey so we can learn how to serve you better.",
+        "option_d": "You can order a replacement bank card directly from the app."
+    },
+    {
+        "question_number": 144,
+        "question_text": "Once your account is fully activated, you will receive notifications of any account activity, ------- deposits, withdrawals, and fund transfers.",
+        "option_a": "without",
+        "option_b": "as soon as",
+        "option_c": "instead of",
+        "option_d": "such as"
+    },
+    {
+        "question_number": 145,
+        "question_text": "You can ------- your notification settings on the 144. ------- 145.",
+        "option_a": "adjust",
+        "option_b": "interrupt",
+        "option_c": "spend",
+        "option_d": "allow"
+    },
+    {
+        "question_number": 146,
+        "question_text": "\"My Account\" page on our mobile app or Web site. For security purposes, you will be prompted to request a one-time ------- code before changing your settings.",
+        "option_a": "verify",
+        "option_b": "verifies",
+        "option_c": "verifiability",
+        "option_d": "verification"
+    },
+    {
+        "question_number": 147,
+        "question_text": "What is NOT mentioned about the event?",
+        "option_a": "Its starting time",
+        "option_b": "Its main purpose",
+        "option_c": "Its location",
+        "option_d": "Its duration"
+    },
+    {
+        "question_number": 148,
+        "question_text": "What is indicated about Mayor Lizette?",
+        "option_a": "She owns a fast-food restaurant.",
+        "option_b": "She recently won an election.",
+        "option_c": "She has a home on Hedgerow Boulevard.",
+        "option_d": "She will present an award to a city employee."
+    },
+    {
+        "question_number": 149,
+        "question_text": "For whom is the invitation intended?",
+        "option_a": "Corozal Digital's clients",
+        "option_b": "Corozal Digital's employees",
+        "option_c": "Bayshore Hotel staff",
+        "option_d": "Bayshore Hotel patrons"
+    },
+    {
+        "question_number": 150,
+        "question_text": "What is mentioned about the event?",
+        "option_a": "It will mark a retirement.",
+        "option_b": "No response is required.",
+        "option_c": "Food will be served.",
+        "option_d": "Guests of invitees are welcome."
+    },
+    {
+        "question_number": 151,
+        "question_text": "What is true about the classic film screenings?",
+        "option_a": "They are offered to the public for a small fee.",
+        "option_b": "They are scheduled throughout one month.",
+        "option_c": "They are shown during the morning.",
+        "option_d": "They are being held outdoors."
+    },
+    {
+        "question_number": 152,
+        "question_text": "What film is most likely to be humorous?",
+        "option_a": "The Hillside Farm",
+        "option_b": "Just Two Wheels",
+        "option_c": "The Missing Papers",
+        "option_d": "A Rambling Homecoming"
+    },
+    {
+        "question_number": 153,
+        "question_text": "Who responded to Ms. Ito's question?",
+        "option_a": "Customer service agents",
+        "option_b": "Advertising sales representatives",
+        "option_c": "Participants in an online cooking course",
+        "option_d": "Owners of a particular type of appliance"
+    },
+    {
+        "question_number": 154,
+        "question_text": "What is Mr. Kumar's opinion of the Canomatik product?",
+        "option_a": "He likes its size.",
+        "option_b": "He is dissatisfied with its quality.",
+        "option_c": "He finds it convenient to use.",
+        "option_d": "He is concerned that it might break."
+    },
+    {
+        "question_number": 155,
+        "question_text": "Who once worked in the food-service industry?",
+        "option_a": "Ms. Vogel",
+        "option_b": "Ms. Jacobs",
+        "option_c": "Mr. Burwood",
+        "option_d": "Mr. Kumar"
+    },
+    {
+        "question_number": 156,
+        "question_text": "At 5:15 P.M., what does Ms. Ito most likely mean when she writes, \"I'll give it a try\"?",
+        "option_a": "She will make a purchase.",
+        "option_b": "She will eat at a restaurant.",
+        "option_c": "She will contact a manufacturer.",
+        "option_d": "She will attempt to open a container."
+    },
+    {
+        "question_number": 157,
+        "question_text": "Where most likely do the writers work?",
+        "option_a": "At a guesthouse",
+        "option_b": "At an accounting firm",
+        "option_c": "At a lighting store",
+        "option_d": "At a manufacturing company"
+    },
+    {
+        "question_number": 158,
+        "question_text": "At 9:05 A.M., what does Ms. Huu most likely mean when she writes, \"I've only been here about ten minutes\"?",
+        "option_a": "She has not yet reviewed some documents.",
+        "option_b": "She had to make a delivery to a client.",
+        "option_c": "She will not be able to substitute for an absent employee.",
+        "option_d": "She has not had time to unpack some boxes."
+    },
+    {
+        "question_number": 159,
+        "question_text": "What product did Mr. Foster most likely purchase?",
+        "option_a": "A water purifier",
+        "option_b": "A bird feeder",
+        "option_c": "A book about gardens",
+        "option_d": "An outdoor fountain"
+    },
+    {
+        "question_number": 160,
+        "question_text": "What is Mr. Foster asked to do?",
+        "option_a": "Write an online review",
+        "option_b": "Provide feedback",
+        "option_c": "Confirm a delivery date",
+        "option_d": "Update his address"
+    },
+    {
+        "question_number": 161,
+        "question_text": "The word \"covered\" in paragraph 2, line 3, is closest in meaning to",
+        "option_a": "described",
+        "option_b": "protected",
+        "option_c": "continued",
+        "option_d": "allowed"
+    },
+    {
+        "question_number": 162,
+        "question_text": "Who introduced Ms. Bautista to weaving?",
+        "option_a": "Her family",
+        "option_b": "Her teachers",
+        "option_c": "Senior designers",
+        "option_d": "Local craftspeople"
+    },
+    {
+        "question_number": 163,
+        "question_text": "What is indicated about Ms. Bautista?",
+        "option_a": "She was born in Manila.",
+        "option_b": "She buys materials from nearby sources.",
+        "option_c": "She has started many businesses.",
+        "option_d": "She regularly travels around the world."
+    },
+    {
+        "question_number": 164,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"However, Ms. Bautista has broader goals.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 165,
+        "question_text": "What is indicated about Brandmark Products, Inc.?",
+        "option_a": "It has discontinued making some products.",
+        "option_b": "It offers discounts on large orders.",
+        "option_c": "It specializes in making athletic uniforms.",
+        "option_d": "It helps companies promote themselves."
+    },
+    {
+        "question_number": 166,
+        "question_text": "The phrase \"put aside\" in paragraph 2, line 3, is closest in meaning to",
+        "option_a": "saved up",
+        "option_b": "classified",
+        "option_c": "ignored",
+        "option_d": "closed up"
+    },
+    {
+        "question_number": 167,
+        "question_text": "According to the Web page, why should someone contact customer service?",
+        "option_a": "To get assistance with an order",
+        "option_b": "To request a sample product",
+        "option_c": "To set up an appointment",
+        "option_d": "To finalize the design of a logo"
+    },
+    {
+        "question_number": 168,
+        "question_text": "What does the Web page focus on?",
+        "option_a": "An overview of an attraction",
+        "option_b": "A town's cultural festival",
+        "option_c": "A local gardening club",
+        "option_d": "An opportunity to buy art"
+    },
+    {
+        "question_number": 169,
+        "question_text": "What is indicated about the manor house?",
+        "option_a": "It is available for private parties.",
+        "option_b": "It is part of an old estate.",
+        "option_c": "It hosts concerts by local musicians.",
+        "option_d": "It has recently been renovated."
+    },
+    {
+        "question_number": 170,
+        "question_text": "According to the Web page, what has happened over the last three years?",
+        "option_a": "A new building has been constructed.",
+        "option_b": "A school of arts has been founded.",
+        "option_c": "A public park has been cleaned up.",
+        "option_d": "A film about Mr. Barton has been made."
+    },
+    {
+        "question_number": 171,
+        "question_text": "According to the Web page, why should a person e-mail Ms. Ji?",
+        "option_a": "To purchase tickets to a performance",
+        "option_b": "To get help in using a Web page",
+        "option_c": "To request an updated event schedule",
+        "option_d": "To inquire about a foundation membership"
+    },
+    {
+        "question_number": 172,
+        "question_text": "Who supervises the finance director?",
+        "option_a": "The foundation president",
+        "option_b": "The payroll manager",
+        "option_c": "The accounting director",
+        "option_d": "The board of directors"
+    },
+    {
+        "question_number": 173,
+        "question_text": "What information about the position is included in the job advertisement?",
+        "option_a": "Salary",
+        "option_b": "Schedule",
+        "option_c": "Qualifications",
+        "option_d": "Duties"
+    },
+    {
+        "question_number": 174,
+        "question_text": "How can candidates apply for the position?",
+        "option_a": "By visiting a booth at a job fair",
+        "option_b": "By e-mailing a résumé to the personnel office",
+        "option_c": "By uploading a résumé to a Web page",
+        "option_d": "By completing an online application form"
+    },
+    {
+        "question_number": 175,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n\n\"However, highly qualified external candidates are encouraged to apply.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 176,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 176,
+        "question_text": "Who most likely is Ms. Wright?",
+        "option_a": "A scheduling coordinator",
+        "option_b": "A vice principal",
+        "option_c": "An art gallery owner",
+        "option_d": "An adult education teacher"
+    },
+    {
+        "question_number": 177,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 177,
+        "question_text": "Why did Ms. Wright send an e-mail to Ms. Morandi?",
+        "option_a": "To decline an invitation",
+        "option_b": "To propose a solution",
+        "option_c": "To ask for information",
+        "option_d": "To reschedule a meeting"
+    },
+    {
+        "question_number": 178,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 178,
+        "question_text": "In the first e-mail, the word \"drop\" in paragraph 1, line 4, is closest in meaning to",
+        "option_a": "slip",
+        "option_b": "quit",
+        "option_c": "lower",
+        "option_d": "slow"
+    },
+    {
+        "question_number": 179,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 179,
+        "question_text": "Why most likely has Ms. Reddy not yet received a tuition refund?",
+        "option_a": "The registration office has been closed.",
+        "option_b": "The refund check is still in the mail.",
+        "option_c": "She failed to submit her request in writing.",
+        "option_d": "She already attended part of the class."
+    },
+    {
+        "question_number": 180,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 180,
+        "question_text": "What does Ms. Morandi suggest that Ms. Reddy may be able to do?",
+        "option_a": "Use her previously paid tuition to take a future class",
+        "option_b": "Find the same class at another adult school",
+        "option_c": "Attend half the class and still receive credit",
+        "option_d": "Contact the teacher to arrange for private tutoring"
+    },
+    {
+        "question_number": 181,
+        "question_text": "What is indicated about Orevale City?",
+        "option_a": "It has little open land for development.",
+        "option_b": "It has two warehouse districts.",
+        "option_c": "It is home to a university.",
+        "option_d": "It has a growing population."
+    },
+    {
+        "question_number": 182,
+        "question_text": "What is different about new Cresson's Bakery locations?",
+        "option_a": "They replicate historic architectural features.",
+        "option_b": "They offer a wider variety of baked goods.",
+        "option_c": "They do not offer seating for customers.",
+        "option_d": "They are located outside of city centers."
+    },
+    {
+        "question_number": 183,
+        "question_text": "What is indicated about Mr. Lu?",
+        "option_a": "He is Ms. Holton's next-door neighbor.",
+        "option_b": "He plans to patronize Cresson's Bakery.",
+        "option_c": "He recently moved to Orevale City.",
+        "option_d": "He is a member of a historic preservation group."
+    },
+    {
+        "question_number": 184,
+        "question_text": "Where did Ms. Holton take photos of vehicle traffic?",
+        "option_a": "On Canton Avenue",
+        "option_b": "On Wofford Drive",
+        "option_c": "On Ridley Street",
+        "option_d": "On Paxton Road"
+    },
+    {
+        "question_number": 185,
+        "question_text": "What does the letter suggest about Ms. Holton?",
+        "option_a": "She is happy that a building design was changed.",
+        "option_b": "She is planning to start her own bakery business.",
+        "option_c": "She did not attend a public hearing.",
+        "option_d": "She wants to submit an article to the newspaper."
+    },
+    {
+        "question_number": 186,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 186,
+        "question_text": "What is the main purpose of the letter?",
+        "option_a": "To apologize for poor Internet service",
+        "option_b": "To seek permission from a property owner",
+        "option_c": "To provide an explanation for a delay",
+        "option_d": "To persuade a customer to switch Internet providers"
+    },
+    {
+        "question_number": 187,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 187,
+        "question_text": "What is suggested about Finnieston in the article?",
+        "option_a": "It recently experienced power outages.",
+        "option_b": "It houses Raxconnect's headquarters.",
+        "option_c": "It will require only one connection hub.",
+        "option_d": "It will soon have upgraded Internet service."
+    },
+    {
+        "question_number": 188,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 188,
+        "question_text": "Which phase of Raxconnect's project took place in Southside?",
+        "option_a": "Phase 1",
+        "option_b": "Phase 2",
+        "option_c": "Phase 3",
+        "option_d": "Phase 4"
+    },
+    {
+        "question_number": 189,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 189,
+        "question_text": "What can be concluded about Ms. Susilo?",
+        "option_a": "She agreed to Ms. Mortimer's request.",
+        "option_b": "She is employed by Raxconnect.",
+        "option_c": "She plans to move to a different Glasgow neighborhood.",
+        "option_d": "She produces video content for the Internet."
+    },
+    {
+        "question_number": 190,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 190,
+        "question_text": "What does the notice suggest about people who live on Lefroy Street?",
+        "option_a": "They will have access to a shuttle service to their homes.",
+        "option_b": "They will receive free Internet service for one week.",
+        "option_c": "They will be asked to fill out a form when Raxconnect's work is done.",
+        "option_d": "They will be able to use the street during construction."
+    },
+    {
+        "question_number": 191,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 191,
+        "question_text": "What is announced in the press release?",
+        "option_a": "The merger of two companies",
+        "option_b": "The retirement of a company's leaders",
+        "option_c": "The expansion of a product line",
+        "option_d": "The relocation of a production plant"
+    },
+    {
+        "question_number": 192,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 192,
+        "question_text": "What does the press release suggest about Albert and Annie's South African division?",
+        "option_a": "It will open in mid-November.",
+        "option_b": "It will not be hiring until mid-December.",
+        "option_c": "It will soon launch its own Web site.",
+        "option_d": "It will not sell ice cream directly to consumers."
+    },
+    {
+        "question_number": 193,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 193,
+        "question_text": "According to the e-mail, what are Ms. Botha's readers interested in?",
+        "option_a": "Tasting new foods",
+        "option_b": "Renting a festival booth",
+        "option_c": "Opening a business",
+        "option_d": "Writing reviews of food products"
+    },
+    {
+        "question_number": 194,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 194,
+        "question_text": "What is indicated about Ms. Botha?",
+        "option_a": "She plans to attend the Wooden Sailboat Festival.",
+        "option_b": "She grew up in the Cape Town area.",
+        "option_c": "She wants to talk to Mr. and Ms. Grundon.",
+        "option_d": "She applied for a job in Albert and Annie's South African division."
+    },
+    {
+        "question_number": 195,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 195,
+        "question_text": "What can be concluded about Albert and Annie's booth at the festival?",
+        "option_a": "It was staffed by Mr. Oessenich.",
+        "option_b": "It did not have coffee ice cream when Mr. Sato arrived.",
+        "option_c": "It was one of three booths featuring frozen desserts.",
+        "option_d": "It did not offer samples of the company's newest flavors."
+    },
+    {
+        "question_number": 196,
+        "question_text": "What is the purpose of the blog post?",
+        "option_a": "To provide grant-writing tips",
+        "option_b": "To recommend a learning experience",
+        "option_c": "To spotlight an employee",
+        "option_d": "To preview changes to a Web site"
+    },
+    {
+        "question_number": 197,
+        "question_text": "According to Mr. Fineman, when does the registration period end?",
+        "option_a": "On September 30",
+        "option_b": "On October 1",
+        "option_c": "On November 1",
+        "option_d": "On December 6"
+    },
+    {
+        "question_number": 198,
+        "question_text": "What is indicated about Ms. Ballard?",
+        "option_a": "She registered for the grant-writing course before October 1.",
+        "option_b": "She currently works as a grant writer.",
+        "option_c": "She took a course from Ms. Gilliam on a previous occasion.",
+        "option_d": "She edits Mr. Fineman's blog posts."
+    },
+    {
+        "question_number": 199,
+        "question_text": "What is true about Ms. Ballard and Mr. Voigt?",
+        "option_a": "They attended a class together in Winnipeg.",
+        "option_b": "They have been interviewed by Mr. Fineman.",
+        "option_c": "They want to learn how to research grant opportunities.",
+        "option_d": "They noticed the same weakness in the Writing Great Grants course."
+    },
+    {
+        "question_number": 200,
+        "question_text": "What does Mr. Voigt indicate about Ms. Gilliam?",
+        "option_a": "She lives in Toronto.",
+        "option_b": "She started a grant-writing firm.",
+        "option_c": "She wrote a grant for Mr. Fineman.",
+        "option_d": "She authored a grant-writing manual."
+    }
+]

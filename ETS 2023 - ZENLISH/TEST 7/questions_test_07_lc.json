@@ -1,0 +1,802 @@
+[
+    {
+        "question_number": 1,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 2,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 3,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 4,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 5,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 6,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 7,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 8,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 9,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 10,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 11,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 12,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 13,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 14,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 15,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 16,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 17,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 18,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 19,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 20,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 21,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 22,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 23,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 24,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 25,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 26,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 27,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 28,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 29,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 30,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 31,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 32,
+        "question_text": "What are the speakers discussing?",
+        "option_a": "Moving to a new office",
+        "option_b": "Painting some walls",
+        "option_c": "Purchasing some furniture",
+        "option_d": "Raising employee salaries"
+    },
+    {
+        "question_number": 33,
+        "question_text": "What did the woman ask a team about?",
+        "option_a": "Group assignments",
+        "option_b": "Vacation schedules",
+        "option_c": "Software preferences",
+        "option_d": "Work-from-home dates"
+    },
+    {
+        "question_number": 34,
+        "question_text": "What does the man offer to do?",
+        "option_a": "Contact some businesses",
+        "option_b": "Get a manager's approval",
+        "option_c": "Calculate some costs",
+        "option_d": "Send a notification e-mail"
+    },
+    {
+        "question_number": 35,
+        "question_text": "Where do the speakers most likely work?",
+        "option_a": "At an appliance store",
+        "option_b": "At a restaurant",
+        "option_c": "At a food-manufacturing plant",
+        "option_d": "At a cooking school"
+    },
+    {
+        "question_number": 36,
+        "question_text": "What problem does the man mention?",
+        "option_a": "Some uniforms have not been delivered.",
+        "option_b": "Some paperwork was misfiled.",
+        "option_c": "A business will be understaffed.",
+        "option_d": "A permit has not been approved."
+    },
+    {
+        "question_number": 37,
+        "question_text": "What does the woman say she will do?",
+        "option_a": "Schedule an upcoming training session",
+        "option_b": "Inform customers of a potential delay",
+        "option_c": "Work an extra shift",
+        "option_d": "Contact a vendor"
+    },
+    {
+        "question_number": 38,
+        "question_text": "What was the woman hired to do for a video game?",
+        "option_a": "Provide feedback",
+        "option_b": "Create some animations",
+        "option_c": "Compose a musical score",
+        "option_d": "Write a script"
+    },
+    {
+        "question_number": 39,
+        "question_text": "According to the man, who has a video game been designed for?",
+        "option_a": "Medical personnel",
+        "option_b": "Human resource specialists",
+        "option_c": "Delivery drivers",
+        "option_d": "Assembly-line workers"
+    },
+    {
+        "question_number": 40,
+        "question_text": "What does the man invite the woman to do?",
+        "option_a": "Store her items in a locker",
+        "option_b": "Tour a building",
+        "option_c": "Choose a place to work",
+        "option_d": "Get some food"
+    },
+    {
+        "question_number": 41,
+        "question_text": "Why did the man come to the woman's office?",
+        "option_a": "To discuss a report",
+        "option_b": "To deliver some tools",
+        "option_c": "To review job applications",
+        "option_d": "To make a repair"
+    },
+    {
+        "question_number": 42,
+        "question_text": "What does the man ask the woman to do?",
+        "option_a": "Provide a signature",
+        "option_b": "Confirm a budget",
+        "option_c": "Print a document",
+        "option_d": "Clear a work space"
+    },
+    {
+        "question_number": 43,
+        "question_text": "What does the man notice?",
+        "option_a": "An item is not a standard size.",
+        "option_b": "Some information is missing.",
+        "option_c": "A cord is unplugged.",
+        "option_d": "A manual is not accurate."
+    },
+    {
+        "question_number": 44,
+        "question_text": "Why is the woman calling?",
+        "option_a": "To report a power outage",
+        "option_b": "To inquire about a bill",
+        "option_c": "To get advice about energy savings",
+        "option_d": "To transfer a service to a new location"
+    },
+    {
+        "question_number": 45,
+        "question_text": "What did the woman do a month ago?",
+        "option_a": "She had solar panels installed.",
+        "option_b": "She changed banks.",
+        "option_c": "She took a vacation.",
+        "option_d": "She opened a business."
+    },
+    {
+        "question_number": 46,
+        "question_text": "What does the man say the woman needs to do?",
+        "option_a": "Schedule an inspection",
+        "option_b": "Talk to a building manager",
+        "option_c": "Complete an online form",
+        "option_d": "Pay an extra fee"
+    },
+    {
+        "question_number": 47,
+        "question_text": "Who most likely is the woman?",
+        "option_a": "A research scientist",
+        "option_b": "An advertising executive",
+        "option_c": "A software engineer",
+        "option_d": "A dentist"
+    },
+    {
+        "question_number": 48,
+        "question_text": "What does the woman say she has decided to do?",
+        "option_a": "Accept a job offer",
+        "option_b": "Purchase some equipment",
+        "option_c": "Move to a new office",
+        "option_d": "Take a training course"
+    },
+    {
+        "question_number": 49,
+        "question_text": "What do the men say are available?",
+        "option_a": "Some preliminary sketches",
+        "option_b": "Some consultation services",
+        "option_c": "Payment plans",
+        "option_d": "User manuals"
+    },
+    {
+        "question_number": 50,
+        "question_text": "Who most likely is the man?",
+        "option_a": "A sales representative",
+        "option_b": "A restaurant chef",
+        "option_c": "A repair technician",
+        "option_d": "A health inspector"
+    },
+    {
+        "question_number": 51,
+        "question_text": "What does the man offer to do?",
+        "option_a": "Reduce a price",
+        "option_b": "Expedite an order",
+        "option_c": "Post an online notice",
+        "option_d": "Photograph some items"
+    },
+    {
+        "question_number": 52,
+        "question_text": "Why does the woman say she is concerned?",
+        "option_a": "Profits have decreased.",
+        "option_b": "A competitor has recently opened.",
+        "option_c": "Some supplies may run out.",
+        "option_d": "Her business Web site is down."
+    },
+    {
+        "question_number": 53,
+        "question_text": "Where does the woman most likely work?",
+        "option_a": "At an elementary school",
+        "option_b": "At a pet store",
+        "option_c": "At a medical clinic",
+        "option_d": "At a department store"
+    },
+    {
+        "question_number": 54,
+        "question_text": "What do the men suggest doing?",
+        "option_a": "Upgrading a sound system",
+        "option_b": "Installing a fish tank",
+        "option_c": "Changing a color scheme",
+        "option_d": "Replacing some flooring"
+    },
+    {
+        "question_number": 55,
+        "question_text": "How will some measurements be used?",
+        "option_a": "To draft a cost estimate",
+        "option_b": "To purchase some bookshelves",
+        "option_c": "To decide what materials to use",
+        "option_d": "To apply for a building permit"
+    },
+    {
+        "question_number": 56,
+        "question_text": "Where most likely are the speakers?",
+        "option_a": "At a car show",
+        "option_b": "At a job fair",
+        "option_c": "At a training workshop",
+        "option_d": "At a product launch"
+    },
+    {
+        "question_number": 57,
+        "question_text": "What does the man imply when he says, \"I'm very interested in learning\"?",
+        "option_a": "He met a deadline earlier than expected.",
+        "option_b": "He requires more product information.",
+        "option_c": "He has many hobbies.",
+        "option_d": "He lacks experience."
+    },
+    {
+        "question_number": 58,
+        "question_text": "What does the woman give the man?",
+        "option_a": "A brochure",
+        "option_b": "A business card",
+        "option_c": "A company T-shirt",
+        "option_d": "An event schedule"
+    },
+    {
+        "question_number": 59,
+        "question_text": "What is the man organizing?",
+        "option_a": "A client meeting",
+        "option_b": "A trade show",
+        "option_c": "An awards banquet",
+        "option_d": "A company outing"
+    },
+    {
+        "question_number": 60,
+        "question_text": "What factor influenced the man's selection?",
+        "option_a": "Affordability",
+        "option_b": "Proximity",
+        "option_c": "Positive reviews",
+        "option_d": "Catering options"
+    },
+    {
+        "question_number": 61,
+        "question_text": "What does the woman imply when she says, \"We book at least six months in advance\"?",
+        "option_a": "A colleague is mistaken about a date.",
+        "option_b": "A request might not be accommodated.",
+        "option_c": "A decision needs to be made soon.",
+        "option_d": "A cancellation will not be possible."
+    },
+    {
+        "question_number": 62,
+        "question_text": "What was the woman uncertain about?",
+        "option_a": "Transportation costs",
+        "option_b": "Weekend availability",
+        "option_c": "A company's reputation",
+        "option_d": "Membership fees"
+    },
+    {
+        "question_number": 63,
+        "question_text": "Look at the graphic. How much will the woman be charged?",
+        "option_a": "$70",
+        "option_b": "$140",
+        "option_c": "$200",
+        "option_d": "$300"
+    },
+    {
+        "question_number": 64,
+        "question_text": "What does the man recommend Star Services to do?",
+        "option_a": "Manage payroll",
+        "option_b": "Install mirrors",
+        "option_c": "Shampoo the carpets",
+        "option_d": "Clean the windows"
+    },
+    {
+        "question_number": 65,
+        "question_text": "What is the man having framed?",
+        "option_a": "An invitation",
+        "option_b": "A photograph",
+        "option_c": "A diploma",
+        "option_d": "A painting"
+    },
+    {
+        "question_number": 66,
+        "question_text": "Look at the graphic. Which frame will the man most likely select?",
+        "option_a": "Frame 1",
+        "option_b": "Frame 2",
+        "option_c": "Frame 3",
+        "option_d": "Frame 4"
+    },
+    {
+        "question_number": 67,
+        "question_text": "What is included in the price?",
+        "option_a": "Delivery",
+        "option_b": "Labor",
+        "option_c": "Gift wrapping",
+        "option_d": "UV glass"
+    },
+    {
+        "question_number": 68,
+        "question_text": "Why did the woman miss an update?",
+        "option_a": "She was on vacation.",
+        "option_b": "She was meeting with clients.",
+        "option_c": "She was training new employees.",
+        "option_d": "She was at a medical appointment."
+    },
+    {
+        "question_number": 69,
+        "question_text": "Look at the graphic. Which model are the speakers discussing?",
+        "option_a": "Model ZQ-C",
+        "option_b": "Model HL-B",
+        "option_c": "Model SN-V",
+        "option_d": "Model CL-G"
+    },
+    {
+        "question_number": 70,
+        "question_text": "According to the woman, what do customers like about an air-conditioner model?",
+        "option_a": "It is quiet.",
+        "option_b": "It is easy to install.",
+        "option_c": "It is energy efficient.",
+        "option_d": "It is inexpensive."
+    },
+    {
+        "question_number": 71,
+        "question_text": "What type of company does the speaker work for?",
+        "option_a": "A technology consulting firm",
+        "option_b": "A landscaping company",
+        "option_c": "A construction company",
+        "option_d": "A law firm"
+    },
+    {
+        "question_number": 72,
+        "question_text": "What good news does the speaker share about the company?",
+        "option_a": "It won a city contract.",
+        "option_b": "It will expand its headquarters.",
+        "option_c": "It has won an industry award.",
+        "option_d": "Its profits have increased."
+    },
+    {
+        "question_number": 73,
+        "question_text": "What does the speaker say he will do later this week?",
+        "option_a": "Purchase new equipment",
+        "option_b": "Update some software",
+        "option_c": "Contact an advertising agency",
+        "option_d": "Post some job openings"
+    },
+    {
+        "question_number": 74,
+        "question_text": "Where does the talk most likely take place?",
+        "option_a": "At a press conference",
+        "option_b": "At a trade show",
+        "option_c": "At an award ceremony",
+        "option_d": "At a sports competition"
+    },
+    {
+        "question_number": 75,
+        "question_text": "What aspect of a product does the speaker mention?",
+        "option_a": "Its improved graphics",
+        "option_b": "Its fast download speeds",
+        "option_c": "Its high-quality audio",
+        "option_d": "Its smartphone compatibility"
+    },
+    {
+        "question_number": 76,
+        "question_text": "What does the speaker say the listeners can do after the talk?",
+        "option_a": "Start a free trial",
+        "option_b": "Speak to a representative",
+        "option_c": "Enjoy some refreshments",
+        "option_d": "Enter a contest"
+    },
+    {
+        "question_number": 77,
+        "question_text": "Where is the meeting most likely taking place?",
+        "option_a": "At a farm",
+        "option_b": "At a cafeteria",
+        "option_c": "At a warehouse",
+        "option_d": "At a grocery store"
+    },
+    {
+        "question_number": 78,
+        "question_text": "What does the speaker say is required?",
+        "option_a": "Requesting vacation time in advance",
+        "option_b": "Updating employee contact information",
+        "option_c": "Wearing the appropriate clothing",
+        "option_d": "Completing some employee training"
+    },
+    {
+        "question_number": 79,
+        "question_text": "What did the speaker find out about this week?",
+        "option_a": "Business has been slower than usual.",
+        "option_b": "Inventory has been running low.",
+        "option_c": "Employees have been missing meetings.",
+        "option_d": "Workers have been taking extended breaks."
+    },
+    {
+        "question_number": 80,
+        "question_text": "What type of business is coming to an area?",
+        "option_a": "A research facility",
+        "option_b": "A delivery service",
+        "option_c": "A computer repair company",
+        "option_d": "An electronics manufacturer"
+    },
+    {
+        "question_number": 81,
+        "question_text": "Why was a specific location chosen?",
+        "option_a": "It is near public transportation.",
+        "option_b": "It is affordable.",
+        "option_c": "It is near an educational institution.",
+        "option_d": "It will attract a lot of customers."
+    },
+    {
+        "question_number": 82,
+        "question_text": "How can the listeners find out more information?",
+        "option_a": "By attending an event",
+        "option_b": "By visiting a Web site",
+        "option_c": "By contacting a city official",
+        "option_d": "By subscribing to a newsletter"
+    },
+    {
+        "question_number": 83,
+        "question_text": "What is the broadcast mainly about?",
+        "option_a": "The announcement of a sporting competition",
+        "option_b": "The completion of a construction project",
+        "option_c": "The closing of a local business",
+        "option_d": "The election of a city official"
+    },
+    {
+        "question_number": 84,
+        "question_text": "According to the speaker, which industry will benefit from an event?",
+        "option_a": "Technology",
+        "option_b": "Manufacturing",
+        "option_c": "Fishing",
+        "option_d": "Tourism"
+    },
+    {
+        "question_number": 85,
+        "question_text": "Why does the speaker say, \"that's less than taking the ferry\"?",
+        "option_a": "To show surprise",
+        "option_b": "To stress a disadvantage",
+        "option_c": "To acknowledge a mistake",
+        "option_d": "To offer a counterargument"
+    },
+    {
+        "question_number": 86,
+        "question_text": "What kind of business does the speaker work for?",
+        "option_a": "A publicity agency",
+        "option_b": "A plastic bag manufacturer",
+        "option_c": "An accounting firm",
+        "option_d": "A grocery store"
+    },
+    {
+        "question_number": 87,
+        "question_text": "What does the speaker mainly discuss?",
+        "option_a": "Upgrading the bookkeeping system",
+        "option_b": "Preparing for a new regulation",
+        "option_c": "Revising a company logo",
+        "option_d": "Increasing online advertising"
+    },
+    {
+        "question_number": 88,
+        "question_text": "What does the speaker expect one of the listeners to do?",
+        "option_a": "Contact another department",
+        "option_b": "Draft a timeline",
+        "option_c": "Find a new supplier",
+        "option_d": "Design a showroom layout"
+    },
+    {
+        "question_number": 89,
+        "question_text": "Who most likely is the speaker?",
+        "option_a": "A journalist",
+        "option_b": "An accountant",
+        "option_c": "A restaurant owner",
+        "option_d": "A customer service representative"
+    },
+    {
+        "question_number": 90,
+        "question_text": "What does the speaker say she needs the listener to do?",
+        "option_a": "Contact some clients",
+        "option_b": "Check an inventory list",
+        "option_c": "Create a marketing campaign",
+        "option_d": "Scan some information"
+    },
+    {
+        "question_number": 91,
+        "question_text": "Why does the speaker say, \"we're offering a workshop on that topic next month\"?",
+        "option_a": "To reject an invitation",
+        "option_b": "To explain a delay",
+        "option_c": "To make a recommendation",
+        "option_d": "To ask for help"
+    },
+    {
+        "question_number": 92,
+        "question_text": "What is the speaker discussing?",
+        "option_a": "Updating a database",
+        "option_b": "Hiring more staff",
+        "option_c": "Revising safety guidelines",
+        "option_d": "Purchasing supplies"
+    },
+    {
+        "question_number": 93,
+        "question_text": "Where does the speaker most likely work?",
+        "option_a": "At a warehouse",
+        "option_b": "At a fitness center",
+        "option_c": "At a home-improvement store",
+        "option_d": "At a cleaning service"
+    },
+    {
+        "question_number": 94,
+        "question_text": "What does the speaker imply when he says, \"Tunji, I think you have a free hour tomorrow morning\"?",
+        "option_a": "Tunji should complete the task.",
+        "option_b": "Tunji can attend the client meeting.",
+        "option_c": "Tunji's schedule needs to be corrected.",
+        "option_d": "Tunji can leave work early."
+    },
+    {
+        "question_number": 95,
+        "question_text": "Where does the speaker work?",
+        "option_a": "At a community center",
+        "option_b": "At a car repair shop",
+        "option_c": "At a supermarket",
+        "option_d": "At a department store"
+    },
+    {
+        "question_number": 96,
+        "question_text": "Look at the graphic. How much will the speaker pay for today's order?",
+        "option_a": "$15",
+        "option_b": "$17",
+        "option_c": "$18",
+        "option_d": "$14"
+    },
+    {
+        "question_number": 97,
+        "question_text": "What does the speaker want to install?",
+        "option_a": "A beverage vending machine",
+        "option_b": "An air-conditioning unit",
+        "option_c": "Some security cameras",
+        "option_d": "Some carpeting"
+    },
+    {
+        "question_number": 98,
+        "question_text": "Look at the graphic. Who is the speaker?",
+        "option_a": "Takanori Kimura",
+        "option_b": "Ozan Demir",
+        "option_c": "Robert Wilson",
+        "option_d": "Ivan Stepanov"
+    },
+    {
+        "question_number": 99,
+        "question_text": "How is the company trying to increase participation in a program?",
+        "option_a": "By offering free snacks",
+        "option_b": "By providing paid time off",
+        "option_c": "By awarding a salary increase",
+        "option_d": "By giving away a free trip"
+    },
+    {
+        "question_number": 100,
+        "question_text": "What will the speaker do next?",
+        "option_a": "Introduce some committee members",
+        "option_b": "Review some sales figures",
+        "option_c": "Pass out tickets to an upcoming event",
+        "option_d": "Give examples of employee goals"
+    }
+]

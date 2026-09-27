@@ -1,0 +1,927 @@
+[
+    {
+        "question_number": 101,
+        "question_text": "Video game designers need a broad ------- of computer programming.",
+        "option_a": "knowledge",
+        "option_b": "known",
+        "option_c": "knowing",
+        "option_d": "know"
+    },
+    {
+        "question_number": 102,
+        "question_text": "Concerning the item that was lost in transit, we will take responsibility for -------.",
+        "option_a": "it",
+        "option_b": "its",
+        "option_c": "its own",
+        "option_d": "itself"
+    },
+    {
+        "question_number": 103,
+        "question_text": "The Springly Energy marketing team is working hard ------- our latest products.",
+        "option_a": "promote",
+        "option_b": "to promote",
+        "option_c": "promoted",
+        "option_d": "were promoting"
+    },
+    {
+        "question_number": 104,
+        "question_text": "The job advertisement lists several ------- needed to be considered for an interview.",
+        "option_a": "specialists",
+        "option_b": "qualifications",
+        "option_c": "engagements",
+        "option_d": "assortments"
+    },
+    {
+        "question_number": 105,
+        "question_text": "When the contract is signed and received, it will become ------- immediately.",
+        "option_a": "effective",
+        "option_b": "effect",
+        "option_c": "effected",
+        "option_d": "effectively"
+    },
+    {
+        "question_number": 106,
+        "question_text": "It is unlikely that a policy change could have ------- the financial challenge that the construction company faced.",
+        "option_a": "shared",
+        "option_b": "banned",
+        "option_c": "forbidden",
+        "option_d": "prevented"
+    },
+    {
+        "question_number": 107,
+        "question_text": "Barsan Photo is ------- that their latest printer will not be available before the start of the third quarter.",
+        "option_a": "acknowledge",
+        "option_b": "acknowledges",
+        "option_c": "acknowledging",
+        "option_d": "acknowledgement"
+    },
+    {
+        "question_number": 108,
+        "question_text": "Thanks to the new system we installed, all lights and other devices turn on ------- when you enter the office.",
+        "option_a": "heavily",
+        "option_b": "seriously",
+        "option_c": "automatically",
+        "option_d": "furiously"
+    },
+    {
+        "question_number": 109,
+        "question_text": "------- the high demand for apartments, the study says single detached homes will be the most popular dwelling in five years.",
+        "option_a": "Despite",
+        "option_b": "Apparently",
+        "option_c": "As expected",
+        "option_d": "In contrast"
+    },
+    {
+        "question_number": 110,
+        "question_text": "The process for estimating our yearly expenses is -------, so we can start planning staffing for next year.",
+        "option_a": "careless",
+        "option_b": "full",
+        "option_c": "entire",
+        "option_d": "complete"
+    },
+    {
+        "question_number": 111,
+        "question_text": "As of June 26, only one ------- had called to request space at the trade show.",
+        "option_a": "exhibitor",
+        "option_b": "exhibit",
+        "option_c": "exhibition",
+        "option_d": "exhibiting"
+    },
+    {
+        "question_number": 112,
+        "question_text": "To keep costs ------- an established budget, the owner decided to reduce the size of the garage to be constructed.",
+        "option_a": "into",
+        "option_b": "over",
+        "option_c": "within",
+        "option_d": "beside"
+    },
+    {
+        "question_number": 113,
+        "question_text": "The outdoor sales event was a great success ------- the cold and rainy weather.",
+        "option_a": "in spite of",
+        "option_b": "provided that",
+        "option_c": "although",
+        "option_d": "unless"
+    },
+    {
+        "question_number": 114,
+        "question_text": "No ------- of Mr. Hanson's book would be complete without mentioning his insightful analysis of the world of business blogs.",
+        "option_a": "finish",
+        "option_b": "summary",
+        "option_c": "composition",
+        "option_d": "organization"
+    },
+    {
+        "question_number": 115,
+        "question_text": "Updating the product line that buyers have complained about will send an obvious ------- to our valued customers.",
+        "option_a": "messaging",
+        "option_b": "messenger",
+        "option_c": "message",
+        "option_d": "messaged"
+    },
+    {
+        "question_number": 116,
+        "question_text": "The Internet will ------- be a crucial part of the economy for the foreseeable future.",
+        "option_a": "concisely",
+        "option_b": "perfectly",
+        "option_c": "currently",
+        "option_d": "undoubtedly"
+    },
+    {
+        "question_number": 117,
+        "question_text": "The management team required little ------- before deciding to promote Ms. Yang.",
+        "option_a": "deliberation",
+        "option_b": "deliberate",
+        "option_c": "deliberated",
+        "option_d": "deliberately"
+    },
+    {
+        "question_number": 118,
+        "question_text": "The human resources office is adopting a more ------- policy that would give employees additional vacation days.",
+        "option_a": "generous",
+        "option_b": "collaborative",
+        "option_c": "severe",
+        "option_d": "regional"
+    },
+    {
+        "question_number": 119,
+        "question_text": "Mr. Greaves will speak to our suppliers about ------- handling of the transportation situation.",
+        "option_a": "they",
+        "option_b": "their",
+        "option_c": "them",
+        "option_d": "these"
+    },
+    {
+        "question_number": 120,
+        "question_text": "This is only a preliminary list of job candidates, so interviewers should ------- the possibility of last-minute additions.",
+        "option_a": "wait",
+        "option_b": "decide",
+        "option_c": "expect",
+        "option_d": "figure"
+    },
+    {
+        "question_number": 121,
+        "question_text": "Market conditions were ------- enough last year for us to make several new acquisitions.",
+        "option_a": "favor",
+        "option_b": "favorite",
+        "option_c": "favorably",
+        "option_d": "favorable"
+    },
+    {
+        "question_number": 122,
+        "question_text": "Web advertising is smart in the sense that it can be highly specific and target a market ------- great accuracy.",
+        "option_a": "near",
+        "option_b": "during",
+        "option_c": "between",
+        "option_d": "with"
+    },
+    {
+        "question_number": 123,
+        "question_text": "The library director requests that staff obtain ------- in instructional technology to better support the library's educational programs.",
+        "option_a": "certification",
+        "option_b": "certified",
+        "option_c": "certifiable",
+        "option_d": "certifier"
+    },
+    {
+        "question_number": 124,
+        "question_text": "------- existing products, which are designed for people with technical expertise, this new program should appeal to a wider audience.",
+        "option_a": "Before",
+        "option_b": "Instead of",
+        "option_c": "Unlike",
+        "option_d": "While"
+    },
+    {
+        "question_number": 125,
+        "question_text": "Some functions of our Web team are to identify problems with applications and then ------- fixes.",
+        "option_a": "priority",
+        "option_b": "prioritize",
+        "option_c": "prioritized",
+        "option_d": "prioritization"
+    },
+    {
+        "question_number": 126,
+        "question_text": "This partnership ------- a great opportunity for us at Stolant Tech to broaden our inventory of available software.",
+        "option_a": "corresponds",
+        "option_b": "represents",
+        "option_c": "appreciates",
+        "option_d": "intends"
+    },
+    {
+        "question_number": 127,
+        "question_text": "We will need to delay the start of the advertising campaign because the relevant contracts have only been ------- completed.",
+        "option_a": "part",
+        "option_b": "parted",
+        "option_c": "partial",
+        "option_d": "partially"
+    },
+    {
+        "question_number": 128,
+        "question_text": "------- much of the accounting staff will be on vacation next week, the ones remaining in the office will be very busy.",
+        "option_a": "Until",
+        "option_b": "Except for",
+        "option_c": "Because",
+        "option_d": "Due to"
+    },
+    {
+        "question_number": 129,
+        "question_text": "------- sending multiple e-mails to share ideas and reach a decision, the team leader called a one-hour meeting to discuss the issue.",
+        "option_a": "As a result",
+        "option_b": "In order to",
+        "option_c": "The same as",
+        "option_d": "Rather than"
+    },
+    {
+        "question_number": 130,
+        "question_text": "Applicants for the position of flight attendant at Joyous Airlines need to ------- a calm sense of authority at all times.",
+        "option_a": "estimate",
+        "option_b": "appear",
+        "option_c": "involve",
+        "option_d": "project"
+    },
+    {
+        "question_number": 131,
+        "question_text": "Darway City Park management strives to keep all visitor trails ------- while improvement projects are underway.",
+        "option_a": "open",
+        "option_b": "noticeable",
+        "option_c": "practical",
+        "option_d": "genuine"
+    },
+    {
+        "question_number": 132,
+        "question_text": "Note that ------- possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then.",
+        "option_a": "frequently",
+        "option_b": "considering",
+        "option_c": "whenever",
+        "option_d": "moreover"
+    },
+    {
+        "question_number": 133,
+        "question_text": "This phase of the project will be completed next month, and there is expected to be little ------- to park users as it progresses.",
+        "option_a": "They are intended to increase visitors' enjoyment of the park.",
+        "option_b": "They are designed to communicate these updated regulations.",
+        "option_c": "Visitors especially enjoy using the park café and other amenities.",
+        "option_d": "Planting new trees requires proper planning and site selection."
+    },
+    {
+        "question_number": 134,
+        "question_text": "The city's Department of Parks makes every effort to avoid trail closures and detours during work projects.",
+        "option_a": "supplement",
+        "option_b": "reduction",
+        "option_c": "implementation",
+        "option_d": "disruption"
+    },
+    {
+        "question_number": 135,
+        "question_text": "We look forward to your visit to the Grand Hotel at Miracle Beach! The town council has recently passed an ordinance requiring that beachgoers pay for ------- to the local beaches.",
+        "option_a": "accessing",
+        "option_b": "access",
+        "option_c": "accessory",
+        "option_d": "accessed"
+    },
+    {
+        "question_number": 136,
+        "question_text": "We know how important free beach entry has been for our guests. -------, we have arranged for beach passes to be available for you—free of charge.",
+        "option_a": "Nevertheless",
+        "option_b": "Otherwise",
+        "option_c": "However",
+        "option_d": "Therefore"
+    },
+    {
+        "question_number": 137,
+        "question_text": "Please be advised that municipal beach-patrol staff members will be walking along the beach ------- to check for passes such as the ones we are providing.",
+        "option_a": "regular",
+        "option_b": "regularly",
+        "option_c": "regulate",
+        "option_d": "regulation"
+    },
+    {
+        "question_number": 138,
+        "question_text": "Make sure to get your pass and avoid the possible penalty. -------",
+        "option_a": "Take all personal belongings with you when you leave the beach.",
+        "option_b": "Sadly, having to pay for the beach is a growing phenomenon nationwide.",
+        "option_c": "A fine will be imposed on anyone who has not secured passes for local beaches.",
+        "option_d": "We will also provide beach towels for any guest who asks for one."
+    },
+    {
+        "question_number": 139,
+        "question_text": "",
+        "option_a": "combining",
+        "option_b": "enhancing",
+        "option_c": "cleaning",
+        "option_d": "reassigning"
+    },
+    {
+        "question_number": 140,
+        "question_text": "",
+        "option_a": "running",
+        "option_b": "runs",
+        "option_c": "ran",
+        "option_d": "to run"
+    },
+    {
+        "question_number": 141,
+        "question_text": "",
+        "option_a": "For example",
+        "option_b": "Normally",
+        "option_c": "Next",
+        "option_d": "In summary"
+    },
+    {
+        "question_number": 142,
+        "question_text": "",
+        "option_a": "We regret any inconvenience these measures may cause this week.",
+        "option_b": "We are proud of the financial services we provide to our loyal customers.",
+        "option_c": "The metal bookshelves were installed only five years ago.",
+        "option_d": "Books are always welcome at local charities."
+    },
+    {
+        "question_number": 143,
+        "question_text": "owners were ------ about their plans",
+        "option_a": "vague",
+        "option_b": "flexible",
+        "option_c": "joyful",
+        "option_d": "encouraging"
+    },
+    {
+        "question_number": 144,
+        "question_text": "instead of just one. ------.",
+        "option_a": "This has advantages and disadvantages.",
+        "option_b": "A large number of filmgoers came to the reopening.",
+        "option_c": "Big changes are often difficult but necessary.",
+        "option_d": "The owners will likely enjoy significant profits."
+    },
+    {
+        "question_number": 145,
+        "question_text": "these films are showing on very small screens. ------ , I felt like I was at home watching television.",
+        "option_a": "Instead",
+        "option_b": "Regardless",
+        "option_c": "In conclusion",
+        "option_d": "In fact"
+    },
+    {
+        "question_number": 146,
+        "question_text": "lovers to discover for ------ what the new Clairmont Cinema has to offer.",
+        "option_a": "them",
+        "option_b": "oneself",
+        "option_c": "themselves",
+        "option_d": "itself"
+    },
+    {
+        "question_number": 147,
+        "question_text": "During which season of the year was the notice most likely written?",
+        "option_a": "Winter",
+        "option_b": "Spring",
+        "option_c": "Summer",
+        "option_d": "Autumn"
+    },
+    {
+        "question_number": 148,
+        "question_text": "What are families encouraged to do?",
+        "option_a": "Use a community pool",
+        "option_b": "Purchase flowers",
+        "option_c": "Vote for township committee members",
+        "option_d": "Help to plant a garden"
+    },
+    {
+        "question_number": 149,
+        "question_text": "Why was Ms. Tucker given a gift certificate?",
+        "option_a": "To acknowledge good work at a restaurant",
+        "option_b": "To express gratitude for help that was provided",
+        "option_c": "To authorize a reward",
+        "option_d": "To repay a loan"
+    },
+    {
+        "question_number": 150,
+        "question_text": "Who most likely is Ms. Lenox?",
+        "option_a": "An employee at a restaurant",
+        "option_b": "A friend of Ms. Tucker's",
+        "option_c": "An editor",
+        "option_d": "Ms. Xie's assistant"
+    },
+    {
+        "question_number": 151,
+        "question_text": "What is the purpose of the checklist?",
+        "option_a": "To announce a new e-mail system",
+        "option_b": "To prepare for new employees",
+        "option_c": "To assist people who are leaving a company",
+        "option_d": "To notify trainers of a schedule"
+    },
+    {
+        "question_number": 152,
+        "question_text": "What is one goal of the social gathering?",
+        "option_a": "To meet managers",
+        "option_b": "To learn about benefits",
+        "option_c": "To receive identification documents",
+        "option_d": "To begin training exercises"
+    },
+    {
+        "question_number": 153,
+        "question_text": "At 1:39 P.M., what does Ms. O'Malley most likely mean when she writes, \"No luck\"?",
+        "option_a": "She does not support a future project.",
+        "option_b": "She is unsure where a coworker's office is.",
+        "option_c": "She was unable to find something.",
+        "option_d": "She needs more instruction from Mr. Wada."
+    },
+    {
+        "question_number": 154,
+        "question_text": "What will Ms. O'Malley probably do next?",
+        "option_a": "E-mail some documents",
+        "option_b": "Call a courier service",
+        "option_c": "Deliver some documents herself",
+        "option_d": "Contact Mr. Wada"
+    },
+    {
+        "question_number": 155,
+        "question_text": "What is the purpose of the notice?",
+        "option_a": "To apologize for a flight delay",
+        "option_b": "To list in-flight beverage options",
+        "option_c": "To describe flight safety procedures",
+        "option_d": "To explain an airline policy"
+    },
+    {
+        "question_number": 156,
+        "question_text": "In what situation will passengers be provided free refreshments?",
+        "option_a": "If the flight is delayed more than one hour",
+        "option_b": "If the flight is canceled due to poor visibility",
+        "option_c": "If the flight is more than two hours long",
+        "option_d": "If the plane temporarily returns to the gate"
+    },
+    {
+        "question_number": 157,
+        "question_text": "The word \"status\" in paragraph 1, line 7, is closest in meaning to",
+        "option_a": "rank",
+        "option_b": "lateness",
+        "option_c": "condition",
+        "option_d": "supervisor"
+    },
+    {
+        "question_number": 158,
+        "question_text": "The word 'draft' in paragraph 1, line 2, is closest in meaning to",
+        "option_a": "wind",
+        "option_b": "cost",
+        "option_c": "version",
+        "option_d": "change"
+    },
+    {
+        "question_number": 159,
+        "question_text": "What will the new structure replace?",
+        "option_a": "An empty lot",
+        "option_b": "A city park",
+        "option_c": "An unused building",
+        "option_d": "A shopping mall"
+    },
+    {
+        "question_number": 160,
+        "question_text": "According to the article, what is the next step in a process?",
+        "option_a": "Construction of the new structure will begin.",
+        "option_b": "Plans will be presented for approval.",
+        "option_c": "The construction company will seek investors.",
+        "option_d": "Residents will vote on the plan."
+    },
+    {
+        "question_number": 161,
+        "question_text": "For whom is the advertisement primarily intended?",
+        "option_a": "Landscapers",
+        "option_b": "Paint store owners",
+        "option_c": "Art students",
+        "option_d": "Homeowners"
+    },
+    {
+        "question_number": 162,
+        "question_text": "What is new about Jasmine Leaf Paint?",
+        "option_a": "It is now stain resistant.",
+        "option_b": "It now features a lifetime guarantee.",
+        "option_c": "It is now thicker.",
+        "option_d": "It is now available in more sizes."
+    },
+    {
+        "question_number": 163,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"This all means more convenient options for you.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 164,
+        "question_text": "What is suggested about the Itami Theater?",
+        "option_a": "It focuses on new playwrights.",
+        "option_b": "It is searching for a new costume designer.",
+        "option_c": "It is building a second stage.",
+        "option_d": "It has operated for over ten years."
+    },
+    {
+        "question_number": 165,
+        "question_text": "What is indicated about Ms. Li?",
+        "option_a": "She has written many plays.",
+        "option_b": "She is new to Itami Theater.",
+        "option_c": "She performs different roles in her current job.",
+        "option_d": "She is hiring new actors."
+    },
+    {
+        "question_number": 166,
+        "question_text": "What is indicated about the hiring process for a permanent artistic director?",
+        "option_a": "It should be completed within nine months.",
+        "option_b": "Interviews will be conducted in six months.",
+        "option_c": "Only local job candidates will be considered.",
+        "option_d": "Successful candidates will have directing experience."
+    },
+    {
+        "question_number": 167,
+        "question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"She has directed the plays Summer and Fall and Love and Other Adventures in the Snow.\"",
+        "option_a": "[1]",
+        "option_b": "[2]",
+        "option_c": "[3]",
+        "option_d": "[4]"
+    },
+    {
+        "question_number": 168,
+        "question_text": "What does the company intend to do in the future?",
+        "option_a": "Open a series of tea shops",
+        "option_b": "Expand its product line",
+        "option_c": "Develop beverages other than tea",
+        "option_d": "Replace the current tea varieties"
+    },
+    {
+        "question_number": 169,
+        "question_text": "Who most likely is Mr. Luna?",
+        "option_a": "A shipping clerk",
+        "option_b": "A factory supervisor",
+        "option_c": "A store owner",
+        "option_d": "A packaging designer"
+    },
+    {
+        "question_number": 170,
+        "question_text": "Who can provide information about the marketing budget?",
+        "option_a": "Ms. Lin",
+        "option_b": "Ms. Taylor",
+        "option_c": "Mr. Ikram",
+        "option_d": "Ms. Ivanova"
+    },
+    {
+        "question_number": 171,
+        "question_text": "Where will the products initially be advertised?",
+        "option_a": "In a newspaper",
+        "option_b": "In an online magazine",
+        "option_c": "On the radio",
+        "option_d": "On social media"
+    },
+    {
+        "question_number": 172,
+        "question_text": "Why did Ms. Matos begin the text-message chain?",
+        "option_a": "She needs help locating something.",
+        "option_b": "She is wondering what time Mr. Thomas will arrive.",
+        "option_c": "She wants to know why the tent is up today.",
+        "option_d": "She wants help putting up decorations."
+    },
+    {
+        "question_number": 173,
+        "question_text": "What will happen this afternoon?",
+        "option_a": "There will be an outdoor event.",
+        "option_b": "There will be a sale.",
+        "option_c": "Ms. Nguyen will order a signboard.",
+        "option_d": "Mr. Thomas will deliver an additional tent."
+    },
+    {
+        "question_number": 174,
+        "question_text": "Where is Mr. Thomas most likely texting from?",
+        "option_a": "The tent",
+        "option_b": "The building entrance",
+        "option_c": "His home",
+        "option_d": "A delivery site"
+    },
+    {
+        "question_number": 175,
+        "question_text": "At 12:04 P.M., what does Ms. Matos most likely mean when she writes, \"No problem\"?",
+        "option_a": "She will probably be finished soon.",
+        "option_b": "She will meet Mr. Thomas at the entrance.",
+        "option_c": "She will return an item to its original location.",
+        "option_d": "She understands Ms. Nguyen's explanation."
+    },
+    {
+        "question_number": 176,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 176,
+        "question_text": "According to the schedule, what would a visitor most likely see at the first special exhibit?",
+        "option_a": "Shoes",
+        "option_b": "Furniture",
+        "option_c": "Radios",
+        "option_d": "Paintings"
+    },
+    {
+        "question_number": 177,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 177,
+        "question_text": "What is indicated about the special exhibit in February?",
+        "option_a": "It includes mostly paintings done by local artists.",
+        "option_b": "It will end before the other exhibits listed on the Web site.",
+        "option_c": "Visitors may see items similar to those that they have in their homes.",
+        "option_d": "It has returned to the museum after a popular earlier appearance."
+    },
+    {
+        "question_number": 178,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 178,
+        "question_text": "Why did Ms. Walsh go to the museum a second time?",
+        "option_a": "She wanted to take more photographs.",
+        "option_b": "She wanted to see more of the museum.",
+        "option_c": "She accidentally left an item at the museum.",
+        "option_d": "She got a discount on a ticket."
+    },
+    {
+        "question_number": 179,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 179,
+        "question_text": "What does Ms. Walsh recommend that readers do?",
+        "option_a": "Take a guided tour of the museum",
+        "option_b": "Call the museum for more information",
+        "option_c": "Buy something at the museum gift shop",
+        "option_d": "Participate in an activity at the museum"
+    },
+    {
+        "question_number": 180,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 180,
+        "question_text": "What exhibit did Ms. Walsh visit on the first trip to the museum?",
+        "option_a": "Worldwide Fashion",
+        "option_b": "Jeffrey Lamb: Naturalist",
+        "option_c": "Humans in Art",
+        "option_d": "Everyday Art"
+    },
+    {
+        "question_number": 181,
+        "question_text": "According to the product information, where can customers see examples of all products?",
+        "option_a": "On a Web site",
+        "option_b": "In a product catalog",
+        "option_c": "In a store",
+        "option_d": "In a newspaper advertisement"
+    },
+    {
+        "question_number": 182,
+        "question_text": "Who most likely completed the form?",
+        "option_a": "An appliance repair person",
+        "option_b": "A restaurant chef",
+        "option_c": "A design store representative",
+        "option_d": "A cooking instructor"
+    },
+    {
+        "question_number": 183,
+        "question_text": "According to the form, what does the client need to provide?",
+        "option_a": "A signature on the contract",
+        "option_b": "Approval for work to begin",
+        "option_c": "Proof of homeowner's insurance",
+        "option_d": "Decisions on two types of materials"
+    },
+    {
+        "question_number": 184,
+        "question_text": "What material will probably NOT be used to make the cabinets for the project?",
+        "option_a": "Golden oak",
+        "option_b": "Dark redwood",
+        "option_c": "Black walnut",
+        "option_d": "Synthetic laminate"
+    },
+    {
+        "question_number": 185,
+        "question_text": "What is indicated about the marble and granite?",
+        "option_a": "They are not eligible for a discount offer.",
+        "option_b": "They are no longer being manufactured.",
+        "option_c": "They are produced in limited colors.",
+        "option_d": "They are very popular with customers."
+    },
+    {
+        "question_number": 186,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 186,
+        "question_text": "What does the article mention about Alexandria's Restaurant Showcase?",
+        "option_a": "Every restaurant in Alexandria participates.",
+        "option_b": "Restaurants are open seven days a week.",
+        "option_c": "It is the busiest time of year for restaurants.",
+        "option_d": "Restaurants are open only for dinner."
+    },
+    {
+        "question_number": 187,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 187,
+        "question_text": "What is indicated about Alexandria's first Restaurant Showcase?",
+        "option_a": "It took place eight years ago.",
+        "option_b": "It had 40 participating restaurants.",
+        "option_c": "It took place before a similar showcase began in Willmar.",
+        "option_d": "It had a shorter duration than this year's restaurant showcase."
+    },
+    {
+        "question_number": 188,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 188,
+        "question_text": "What is true of all the restaurants on the Web page?",
+        "option_a": "They are open on Mondays.",
+        "option_b": "They serve the same type of food.",
+        "option_c": "They require a reservation.",
+        "option_d": "They are in the same neighborhood."
+    },
+    {
+        "question_number": 189,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 189,
+        "question_text": "How much does it cost to eat at Roberto's Pizzeria during Alexandria's Restaurant Showcase?",
+        "option_a": "$8",
+        "option_b": "$15",
+        "option_c": "$20",
+        "option_d": "$30"
+    },
+    {
+        "question_number": 190,
+        "question_text": "",
+        "option_a": "",
+        "option_b": "",
+        "option_c": "",
+        "option_d": ""
+    },
+    {
+        "question_number": 190,
+        "question_text": "What is suggested about Ms. Sato?",
+        "option_a": "She went to Fresh Fish Grill on July 25.",
+        "option_b": "She went to Fresh Fish Grill with her family.",
+        "option_c": "She has dined at the Fresh Fish Grill many times.",
+        "option_d": "She knows the owner of Fresh Fish Grill."
+    },
+    {
+        "question_number": 191,
+        "question_text": "According to the job advertisement, what is one responsibility of the Student Activities Coordinator?",
+        "option_a": "Help students with difficult assignments",
+        "option_b": "Inform students about local events",
+        "option_c": "Train students to give presentations",
+        "option_d": "Lead workshops about Web site development"
+    },
+    {
+        "question_number": 192,
+        "question_text": "According to the first e-mail, what is one way that Ms. Bradbury promoted student engagement?",
+        "option_a": "She volunteered at a local recreation center.",
+        "option_b": "She participated in several cultural excursions.",
+        "option_c": "She recruited high school students to be tutors.",
+        "option_d": "She started a sports group."
+    },
+    {
+        "question_number": 193,
+        "question_text": "What information did Ms. Bradbury leave out of her cover letter?",
+        "option_a": "Her relevant job experience",
+        "option_b": "Her interest in the position",
+        "option_c": "Her professional strengths",
+        "option_d": "Her areas for improvement"
+    },
+    {
+        "question_number": 194,
+        "question_text": "What does the second e-mail indicate about the hiring process?",
+        "option_a": "Every applicant must fill in a form online.",
+        "option_b": "Applicants should submit two reference letters.",
+        "option_c": "Some applicants will have an in-person interview.",
+        "option_d": "Applicants with four-year degrees are preferred."
+    },
+    {
+        "question_number": 195,
+        "question_text": "Who most likely is Ms. Cooper?",
+        "option_a": "The Human Resources Manager",
+        "option_b": "An office assistant",
+        "option_c": "A university admissions counselor",
+        "option_d": "The Student Activities Coordinator"
+    },
+    {
+        "question_number": 196,
+        "question_text": "What is the purpose of the e-mail?",
+        "option_a": "To request feedback on a draft policy",
+        "option_b": "To propose a change to a company procedure",
+        "option_c": "To report an error in a reimbursement calculation",
+        "option_d": "To schedule a meeting to discuss mobile phone expenses",
+        "is_incomplete": true
+    },
+    {
+        "question_number": 196,
+        "question_text": "What is the purpose of the e-mail?",
+        "option_a": "To describe patterns of employee behavior",
+        "option_b": "To suggest updates to certain technology",
+        "option_c": "To consider replacing a vendor",
+        "option_d": "To request a revision to a reimbursement policy"
+    },
+    {
+        "question_number": 197,
+        "question_text": "According to the e-mail, what is currently required of Ferd Data Services employees seeking reimbursement?",
+        "option_a": "They must submit a form monthly.",
+        "option_b": "They must provide receipts for all business calls.",
+        "option_c": "They must get approval from the Human Resources department.",
+        "option_d": "They must limit their phone use to 30 percent of the total.",
+        "is_incomplete": true
+    },
+    {
+        "question_number": 197,
+        "question_text": "According to the e-mail, who is Ms. Cheung?",
+        "option_a": "A telemarketer",
+        "option_b": "A member of the accounting team",
+        "option_c": "A human resources specialist",
+        "option_d": "An electronics engineer"
+    },
+    {
+        "question_number": 198,
+        "question_text": "In the e-mail, the word \"model\" in paragraph 2, line 1, is closest in meaning to",
+        "option_a": "copy",
+        "option_b": "example",
+        "option_c": "system",
+        "option_d": "personnel",
+        "is_incomplete": true
+    },
+    {
+        "question_number": 198,
+        "question_text": "What did Ms. O'Brien do after receiving Ms. Cheung's e-mail?",
+        "option_a": "She invited Ms. Cheung to a meeting.",
+        "option_b": "She rejected Ms. Cheung's suggestion but proposed alternatives.",
+        "option_c": "She collaborated with other company leaders to address an issue.",
+        "option_d": "She transferred to a different department."
+    },
+    {
+        "question_number": 199,
+        "question_text": "Who is expected to attend the meeting on October 24?",
+        "option_a": "Celeste O'Brien",
+        "option_b": "Monica Cheung",
+        "option_c": "All company employees",
+        "option_d": "Select managers and department heads",
+        "is_incomplete": true
+    },
+    {
+        "question_number": 199,
+        "question_text": "According to the policy, who qualifies to receive a company mobile phone?",
+        "option_a": "Ferd Data Services managers and executives only",
+        "option_b": "All Ferd Data Services employees who work from home",
+        "option_c": "Employees who travel for business purposes",
+        "option_d": "Employees who submit a monthly form"
+    },
+    {
+        "question_number": 200,
+        "question_text": "Which of the options on the agenda best aligns with Ms. Cheung's recommendation?",
+        "option_a": "Option 1",
+        "option_b": "Option 2",
+        "option_c": "Option 3",
+        "option_d": "None of them",
+        "is_incomplete": true
+    },
+    {
+        "question_number": 200,
+        "question_text": "What best describes the result of the meeting on October 24?",
+        "option_a": "Attendees agreed to continue following the original procedures.",
+        "option_b": "Attendees decided to collect more information before making a decision.",
+        "option_c": "Attendees decided to adopt some of the options discussed.",
+        "option_d": "Attendees completed a survey about mobile phone use."
+    }
+]

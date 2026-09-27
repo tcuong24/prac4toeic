@@ -1,0 +1,50 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+*.ipr
+*.iws
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies & Build Outputs
+node_modules/
+dist/
+dist-ssr/
+target/
+build/
+
+# Java & Maven
+.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+
+# Python & AI Speech Service (OpenPronounce)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+models/
+*.pt
+*.bin
+*.onnx
+
+# Uploads & Temp Data
+uploads/
+logs/
+*.log

@@ -1,0 +1,12 @@
+package com.prac4toeic.modules.test.dto;
+
+import com.fasterxml.jackson.databind.PropertyNamingStrategies;
+import com.fasterxml.jackson.databind.annotation.JsonNaming;
+
+import java.util.List;
+
+@JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
+public record TestResultDto(Long attemptId, int totalCorrect, int totalQuestions,
+                            int toeicScoreListening, int toeicScoreReading,
+                            List<QuestionResultDto> details) {
+}

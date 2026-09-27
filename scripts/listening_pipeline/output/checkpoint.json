@@ -1,0 +1,98 @@
+{
+  "processed_ranges": [
+    "32-34",
+    "35-37"
+  ],
+  "dialogues": [
+    {
+      "question_range": "32-34",
+      "question_numbers": [
+        32,
+        33,
+        34
+      ],
+      "part": 3,
+      "context": "A phone call regarding a furniture delivery confirmation",
+      "turns": [
+        {
+          "speaker": "Narrator",
+          "text": "Questions 32 through 34 refer to the following conversation."
+        },
+        {
+          "speaker": "Man",
+          "text": "Hello Ms. Tanaka, this is David from Apex Logistics. I'm calling to confirm your shipment of office furniture scheduled for delivery this Thursday afternoon."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Oh hello David! Yes, I was just checking our inventory space. Will the drivers be able to help unload the items onto the second floor? Our elevator is temporarily out of service today."
+        },
+        {
+          "speaker": "Man",
+          "text": "Absolutely. I will assign two extra movers to your truck to ensure everything gets placed directly in the main conference room without any delay."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's wonderful news! Please email me the updated delivery confirmation form so I can notify our facilities manager."
+        },
+        {
+          "speaker": "Narrator",
+          "text": "Number 32. Why is the man calling?"
+        },
+        {
+          "speaker": "Narrator",
+          "text": "Number 33. What problem does the woman mention?"
+        },
+        {
+          "speaker": "Narrator",
+          "text": "Number 34. What will the woman probably do next?"
+        }
+      ],
+      "audio_url": "/uploads/listening/listening_p3_q32_34.wav"
+    },
+    {
+      "question_range": "35-37",
+      "question_numbers": [
+        35,
+        36,
+        37
+      ],
+      "part": 3,
+      "context": "Discussion about a marketing budget report before a meeting",
+      "turns": [
+        {
+          "speaker": "Narrator",
+          "text": "Questions 35 through 37 refer to the following conversation."
+        },
+        {
+          "speaker": "Woman",
+          "text": "Excuse me, Carlos. Have you finished reviewing the quarterly budget reports for the marketing department? The executive committee meets at three o'clock."
+        },
+        {
+          "speaker": "Man",
+          "text": "I'm almost done, Rachel. The digital advertising expenses were higher than projected, but overall we stayed within our target range."
+        },
+        {
+          "speaker": "Woman",
+          "text": "That's reassuring. Could you print five copies of the final summary slide before the meeting begins?"
+        },
+        {
+          "speaker": "Man",
+          "text": "Sure thing. I'll print them out right away and bring them to meeting room B."
+        },
+        {
+          "speaker": "Narrator",
+          "text": "Number 35. What are the speakers discussing?"
+        },
+        {
+          "speaker": "Narrator",
+          "text": "Number 36. What does the man say about the digital advertising expenses?"
+        },
+        {
+          "speaker": "Narrator",
+          "text": "Number 37. What does the woman ask the man to do?"
+        }
+      ],
+      "audio_url": "/uploads/listening/listening_p3_q35_37.wav"
+    }
+  ]
+}

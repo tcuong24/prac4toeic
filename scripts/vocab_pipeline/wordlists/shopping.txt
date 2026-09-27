@@ -1,0 +1,31 @@
+# Topic: Shopping, Purchasing & Shipping
+inventory
+warehouse
+supplier
+vendor
+distributor
+wholesale
+retail
+order
+shipment
+tracking
+courier
+freight
+package
+parcel
+dispatch
+in transit
+return policy
+refund
+exchange
+warranty
+guarantee
+bulk
+discount
+clearance
+rebate
+voucher
+checkout
+merchandise
+restock
+defect
